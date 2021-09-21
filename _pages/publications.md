@@ -48,7 +48,9 @@ Papers
 
 1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, W.W. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (2021). Diffusion modeling reveals effects of multiple release sites and human activity on a recolonizing apex predator. Movement Ecology, 9: 34.  [(pdf)](Eisaguirre_etal_MoveEcol_2021.pdf)
 
-1. Hooten, M.B., D.S. Johnson, and B.M. Brost. (2021). Making recursive Bayesian inference accessible. The American Statistician. [(pdf)](Hooten_etal_AmStat_2021.pdf) [(video)](https://youtu.be/VtMC7XADPYE)
+1. Hooten, M.B., D.S. Johnson, and B.M. Brost. (2021). Making recursive Bayesian inference accessible. The American Statistician, 75: 185-194. [(pdf)](Hooten_etal_AmStat_2021.pdf) [(video)](https://youtu.be/VtMC7XADPYE)
+
+1. McCaslin, H.M., A.B. Feuka, and M.B. Hooten. (2021). Hierarchical computing for hierarchical models in ecology. Methods in Ecology and Evolution, 12: 245-254. [(pdf)](McCaslin_etal_MEE_2020.pdf) [(video)](https://www.youtube.com/watch?v=Tu1O07MdGiQ)
 
 1. Williamson, M.A., B.G. Dickson, M.B. Hooten, R.A. Graves, M.N. Lubell, and M.W. Schwartz. (2021). Accounting for incomplete reporting improves inference about private land conservation. Conservation Biology, 35: 1174-1185. [(pdf)](Williamson_etal_ConsBio_2021.pdf)
 
@@ -58,8 +60,6 @@ Papers
 1. Lasky, J.R., M.B. Hooten, and P.B. Adler. (2020). What processes must we understand to forecast regional scale population dynamics? Proceedings of the Royal Society B, 287: 20202219. [(pdf)](Lasky_etal_PRSB_2020.pdf)
 
 1. Leach, C., J.A. Hoeting, K. Pepin, A. Eiras, M.B. Hooten, and C. Webb. (2020). Linking mosquito surveillance to dengue fever through Bayesian mechanistic modeling. PLoS Neglected Tropical Diseases, 14: e0008868. [(pdf)](Leach_etal_PNTD_2020.pdf)
-
-1. McCaslin, H.M., A.B. Feuka, and M.B. Hooten. (In Press). Hierarchical computing for hierarchical models in ecology. Methods in Ecology and Evolution. [(pdf)](McCaslin_etal_MEE_2020.pdf) [(video)](https://www.youtube.com/watch?v=Tu1O07MdGiQ)
 
 1. Hooten, M.B., C.K. Wikle, and M.R. Schwob. (2020). Statistical implementations of agent-based demographic models. International Statistical Review, 88: 441-461. [(pdf)](Hooten_etal_ISR_2020.pdf)
 
