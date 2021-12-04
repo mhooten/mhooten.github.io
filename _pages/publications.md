@@ -36,6 +36,8 @@ Papers
 2021
 ------
 
+1. Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (In Press).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution.
+
 1. Lepak, J.M., A.G. Hansen, M.B. Hooten, D. Brauch, and E.M. Vigil. (In Press). Rapid proliferation of the parasitic copepod Salmincola californiensis on kokanee salmon in a large Colorado reservoir. Journal of Fish Diseases.
 
 1. Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (In Press). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics.
@@ -44,7 +46,7 @@ Papers
 
 1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
 
-1. Banks, D.L. and M.B. Hooten. (In Press). Statistical challenges in agent-based modeling. The American Statistician.
+1. Banks, D.L. and M.B. Hooten. (2021). Statistical challenges in agent-based modeling. The American Statistician, 75: 235-242.
 
 1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, W.W. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (2021). Diffusion modeling reveals effects of multiple release sites and human activity on a recolonizing apex predator. Movement Ecology, 9: 34.  [(pdf)](Eisaguirre_etal_MoveEcol_2021.pdf)
 
