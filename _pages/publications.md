@@ -36,6 +36,8 @@ Papers
 2021
 ------
 
+1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (In Press). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review. 
+
 1. Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (In Press).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution.
 
 1. Lepak, J.M., A.G. Hansen, M.B. Hooten, D. Brauch, and E.M. Vigil. (In Press). Rapid proliferation of the parasitic copepod Salmincola californiensis on kokanee salmon in a large Colorado reservoir. Journal of Fish Diseases.
