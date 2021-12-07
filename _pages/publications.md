@@ -36,6 +36,8 @@ Papers
 2021
 ------
 
+1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
+
 1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (In Press). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review. 
 
 1. Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (In Press).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution.
