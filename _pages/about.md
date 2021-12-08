@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* New paper accepted in Journal of Fish Diseases:  
-Lepak, J.M., A.G. Hansen, M.B. Hooten, D. Brauch, and E.M. Vigil. (In Press). Rapid proliferation of the parasitic copepod Salmincola californiensis on kokanee salmon in a large Colorado reservoir. Journal of Fish Diseases.  
+* New paper accepted in JABES:  
+Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
+* New paper accepted in E&E:  
+Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (In Press).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution.
+* New paper accepted in ISR:  
+Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (In Press). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review. 
+* New paper published in Journal of Fish Diseases:  
+Lepak, J.M., A.G. Hansen, M.B. Hooten, D. Brauch, and E.M. Vigil. (2021). Rapid proliferation of the parasitic copepod Salmincola californiensis on kokanee salmon in a large Colorado reservoir. Journal of Fish Diseases, 45: 89-98.  
 * Lucy Lu successfully defended her dissertation!  
 * New paper on inverse reinforcement learning accepted in Annals of Applied Statistics:  
 Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (In Press). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics.

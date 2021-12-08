@@ -17,9 +17,6 @@ Research:  Population dynamic models for native coldwater fish
 Students
 ------
 
-1. Abbey Feuka, PhD Ecology, CSU (coadvised w/ Larissa Bailey)  
-Research:  Modeling movement of invasive reptiles 
-
 1. Hanna McCaslin, PhD Ecology, CSU (coadvised w/ Kyle Horton)  
 Research:  Raptor migration dynamics  
 
