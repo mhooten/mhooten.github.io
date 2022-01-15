@@ -46,12 +46,12 @@ Papers
 
 1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
 
-1. Feuka, A.B., M.G. Nafus, A.A. Yackel Adams, L.L. Bailey, and M.B. Hooten.  (2022).  Endogenous and exogenous mechanisms affecting invasive reptile movement at multiple scales.  Movement Ecology, 10: 2.
+1. Feuka, A.B., M.G. Nafus, A.A. Yackel Adams, L.L. Bailey, and M.B. Hooten.  (2022).  Endogenous and exogenous mechanisms affecting invasive reptile movement at multiple scales.  Movement Ecology, 10: 2. [(pdf)](Feuka_etal_MoveEcol_2022.pdf)
 
 2021
 ------
 
-1. Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (2021).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution, 11: 18271-18287.
+1. Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (2021).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution, 11: 18271-18287. [(pdf)](Raiho_etal_EE_2021.pdf)
 
 1. Lepak, J.M., A.G. Hansen, M.B. Hooten, D. Brauch, and E.M. Vigil. (In Press). Rapid proliferation of the parasitic copepod Salmincola californiensis on kokanee salmon in a large Colorado reservoir. Journal of Fish Diseases, 45: 89-98. [(pdf)](Lepak_etal_JFD_2021.pdf) 
 
