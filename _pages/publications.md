@@ -36,15 +36,17 @@ Papers
 2022
 ------
 
-1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
+1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions.
 
-1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (In Press). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review. 
+1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
 
 1. Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (In Press). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics.
 
-1. Leach, C.B., P.J. Williams, J.M. Eisaguirre, J.N. Womble, M.R. Bower, and M.B. Hooten. (In Press). Recursive Bayesian computation facilitates adaptive optimal design in ecological studies. Ecology.
-
 1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
+
+1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review.  [(pdf)](Scharf_etal_ISR_2022.pdf) 
+
+1. Leach, C.B., P.J. Williams, J.M. Eisaguirre, J.N. Womble, M.R. Bower, and M.B. Hooten. (2022). Recursive Bayesian computation facilitates adaptive optimal design in ecological studies. Ecology, 103: e03573. [(pdf)](Leach_etal_Ecology_2022.pdf)
 
 1. Feuka, A.B., M.G. Nafus, A.A. Yackel Adams, L.L. Bailey, and M.B. Hooten.  (2022).  Endogenous and exogenous mechanisms affecting invasive reptile movement at multiple scales.  Movement Ecology, 10: 2. [(pdf)](Feuka_etal_MoveEcol_2022.pdf)
 
