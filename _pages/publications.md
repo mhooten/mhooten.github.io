@@ -36,6 +36,8 @@ Papers
 2022
 ------
 
+1. Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (In Press).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology.
+
 1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions.
 
 1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
