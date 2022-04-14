@@ -36,6 +36,8 @@ Papers
 2022
 ------
 
+1. Kim, S., M.B. Hooten, T.L. Darden, and Y. Kanno.  (In Press).  Linking male reproductive success to effort within and among nests in a co-breeding stream fish.  Ethology. 
+
 1. Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (In Press).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology.
 
 1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions.
