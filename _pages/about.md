@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+* New paper on fast multi-stage computing:
+Johnson, D.S., B.M. Brost, and M.B. Hooten. (2022). Greater than the sum of its parts: Computationally flexible Bayesian hierarchical modeling. Journal of Agricultural, Biological, and Environmental Statistics, 27: 382-400.
 * New paper accepted on landscape genetics:  
 Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (In Press).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology.
 * New paper accepted on environments that are robust to climate change:  
@@ -20,8 +22,6 @@ Banks, D.L. and M.B. Hooten. (2021). Statistical challenges in agent-based model
 Leach, C.B., P.J. Williams, J.M. Eisaguirre, J.N. Womble, M.R. Bower, and M.B. Hooten. (2022). Recursive Bayesian computation facilitates adaptive optimal design in ecological studies. Ecology, 103: e03573.
 * New paper accepted in JABES:  
 Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
-* New paper accepted in E&E:  
-Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (In Press).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution.
 * New paper accepted in ISR:  
 Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (In Press). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review. 
 * New paper on inverse reinforcement learning accepted in Annals of Applied Statistics:  

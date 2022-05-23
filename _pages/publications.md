@@ -36,9 +36,7 @@ Papers
 2022
 ------
 
-1. Kim, S., M.B. Hooten, T.L. Darden, and Y. Kanno.  (In Press).  Linking male reproductive success to effort within and among nests in a co-breeding stream fish.  Ethology. 
-
-1. Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (In Press).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology.
+1. Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (In Press).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology. [(pdf)](Zimmerman_etal_MoleEcol_2022.pdf)
 
 1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions.
 
@@ -49,6 +47,10 @@ Papers
 1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
 
 1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review.  [(pdf)](Scharf_etal_ISR_2022.pdf) 
+
+1. Johnson, D.S., B.M. Brost, and M.B. Hooten. (2022). Greater than the sum of its parts: Computationally flexible Bayesian hierarchical modeling. Journal of Agricultural, Biological, and Environmental Statistics, 27: 382-400. [(pdf)](Johnson_etal_JABES_2022.pdf)
+
+1. Kim, S., M.B. Hooten, T.L. Darden, and Y. Kanno.  (2022).  Linking male reproductive success to effort within and among nests in a co-breeding stream fish.  Ethology, 128: 489-498.  [(pdf)](Kim_etal_Ethology_2022.pdf) 
 
 1. Leach, C.B., P.J. Williams, J.M. Eisaguirre, J.N. Womble, M.R. Bower, and M.B. Hooten. (2022). Recursive Bayesian computation facilitates adaptive optimal design in ecological studies. Ecology, 103: e03573. [(pdf)](Leach_etal_Ecology_2022.pdf)
 

@@ -1,5 +1,5 @@
 ---
-title: "Elements of Statists, SDS 320E"
+title: "Elements of Statistics, SDS 320E"
 collection: teaching
 type: "Course"
 permalink: /teaching/2022-fall-teaching
