@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+* New paper on inverse reinforcement learning for animal movement:  
+
+Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (2022). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics, 16: 999-1013. 
+
 * New paper on fast multi-stage computing:
 
 Johnson, D.S., B.M. Brost, and M.B. Hooten. (2022). Greater than the sum of its parts: Computationally flexible Bayesian hierarchical modeling. Journal of Agricultural, Biological, and Environmental Statistics, 27: 382-400.
 
-* New paper accepted on landscape genetics:  
+* New paper on landscape genetics:  
 
-Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (In Press).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology.
+Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (2022).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology, 31: 3267-3285.
 
 * New paper accepted on environments that are robust to climate change:  
 
@@ -31,8 +35,4 @@ Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improvi
 * New paper accepted in ISR:  
 
 Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (In Press). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review. 
-
-* New paper on inverse reinforcement learning accepted in Annals of Applied Statistics:  
-
-Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (In Press). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics.
 
