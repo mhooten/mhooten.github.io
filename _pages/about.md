@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted on community confouding:  
+
+Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (In Press). Community confounding in joint species distribution models. Scientific Reports.
+
 * New paper on inverse reinforcement learning for animal movement:  
 
 Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (2022). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics, 16: 999-1013. 
@@ -31,8 +35,4 @@ Leach, C.B., P.J. Williams, J.M. Eisaguirre, J.N. Womble, M.R. Bower, and M.B. H
 * New paper accepted in JABES:  
 
 Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
-
-* New paper accepted in ISR:  
-
-Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (In Press). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review. 
 

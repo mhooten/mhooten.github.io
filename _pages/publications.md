@@ -36,6 +36,8 @@ Papers
 2022
 ------
 
+1. Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (In Press). Community confounding in joint species distribution models. Scientific Reports.
+
 1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions.
 
 1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
