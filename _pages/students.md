@@ -72,7 +72,7 @@ Current:  Asst. Professor at University of Rhode Island
 Current:  Senior Statistical Ecologist at Provivi, Inc.
 
 1. Trevor Hefley, Postdoc, CSU  
-Current:  Asst. Professor at Kansas State University 
+Current:  Assoc. Professor at Kansas State University 
 
 1. Viviana Ruiz-Gutierrez, Postdoc, CSU  
 Current:  Quantitative Ecologist at Cornell University 
