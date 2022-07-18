@@ -36,13 +36,13 @@ Papers
 2022
 ------
 
-1. Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (In Press). Community confounding in joint species distribution models. Scientific Reports.
-
 1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions.
 
 1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
 
 1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
+
+1. Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (2022). Community confounding in joint species distribution models. Scientific Reports, 12: 12235. [(pdf)](VanEe_etal_SciReports_2022.pdf)
 
 1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review.  [(pdf)](Scharf_etal_ISR_2022.pdf) 
 

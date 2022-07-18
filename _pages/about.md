@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* New paper accepted on community confouding:  
+* New paper on community confouding:  
 
-Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (In Press). Community confounding in joint species distribution models. Scientific Reports.
+Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (2022). Community confounding in joint species distribution models. Scientific Reports, 12: 12235.
 
 * New paper on inverse reinforcement learning for animal movement:  
 
