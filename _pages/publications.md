@@ -44,7 +44,7 @@ Papers
 
 1. Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (2022). Community confounding in joint species distribution models. Scientific Reports, 12: 12235. [(pdf)](VanEe_etal_SciReports_2022.pdf)
 
-1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review.  [(pdf)](Scharf_etal_ISR_2022.pdf) 
+1. Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review, 90: 328-345.  [(pdf)](Scharf_etal_ISR_2022.pdf) 
 
 1. Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (2022).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology, 31: 3267-3285. [(pdf)](Zimmerman_etal_MoleEcol_2022.pdf)
 

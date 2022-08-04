@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper with insights on statistical models for binary data:  
+
+Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review, 90: 328-345.
+
 * New paper on community confouding:  
 
 Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (2022). Community confounding in joint species distribution models. Scientific Reports, 12: 12235.
