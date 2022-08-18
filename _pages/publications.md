@@ -36,6 +36,8 @@ Papers
 2022
 ------
 
+1. Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (In Press). Mechanistic spatial models for heavy metal pollution. Environmetrics. 
+
 1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
 
 1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
