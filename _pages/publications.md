@@ -36,6 +36,8 @@ Papers
 2022
 ------
 
+1. Wenger, S.J., E. Stowe, K. Gido, M. Freeman, Y. Kanno, N. Franssen, J.D. Olden, L. Poff, A. Walters, P. Bumpers, M. Mims, M.B. Hooten, and X. Lu. (In Press). Simple statistical models can be sufficient for testing hypotheses with population time series data. Ecology and Evolution.
+
 1. Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (In Press). Mechanistic spatial models for heavy metal pollution. Environmetrics. 
 
 1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
