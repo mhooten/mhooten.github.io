@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper on how to infer sources in mechanistic spatio-temporal models:  
+
+Okasaki, C., M.B. Hooten, and A.M. Berdahl. (In Press). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics.
+
 * New paper accepted on mechanistic spatio-temporal models for spatial data:  
 
 Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (In Press). Mechanistic spatial models for heavy metal pollution. Environmetrics.
@@ -31,13 +35,5 @@ Johnson, D.S., B.M. Brost, and M.B. Hooten. (2022). Greater than the sum of its 
 * New paper on landscape genetics:  
 
 Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (2022).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology, 31: 3267-3285.
-
-* New paper accepted on environments that are robust to climate change:  
-
-Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Searching for refuge: A framework for identifying site factors conferring resistance to climate-driven vegetation change. Diversity and Distributions.
-
-* New paper on multistage computing for optimal design: 
-
-Leach, C.B., P.J. Williams, J.M. Eisaguirre, J.N. Womble, M.R. Bower, and M.B. Hooten. (2022). Recursive Bayesian computation facilitates adaptive optimal design in ecological studies. Ecology, 103: e03573.
 
 

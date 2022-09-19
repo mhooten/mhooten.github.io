@@ -36,6 +36,8 @@ Papers
 2022
 ------
 
+1. Okasaki, C., M.B. Hooten, and A.M. Berdahl. (In Press). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics.
+
 1. Wenger, S.J., E. Stowe, K. Gido, M. Freeman, Y. Kanno, N. Franssen, J.D. Olden, L. Poff, A. Walters, P. Bumpers, M. Mims, M.B. Hooten, and X. Lu. (In Press). Simple statistical models can be sufficient for testing hypotheses with population time series data. Ecology and Evolution.
 
 1. Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (In Press). Mechanistic spatial models for heavy metal pollution. Environmetrics. 
