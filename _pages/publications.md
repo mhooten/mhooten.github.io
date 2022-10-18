@@ -36,15 +36,15 @@ Papers
 2022
 ------
 
-1. Okasaki, C., M.B. Hooten, and A.M. Berdahl. (In Press). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics.
+1. Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (In Press). Mechanistic spatial models for heavy metal pollution. Environmetrics. 
+
+1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
 
 1. Wenger, S.J., E. Stowe, K. Gido, M. Freeman, Y. Kanno, N. Franssen, J.D. Olden, L. Poff, A. Walters, P. Bumpers, M. Mims, M.B. Hooten, and X. Lu. (In Press). Simple statistical models can be sufficient for testing hypotheses with population time series data. Ecology and Evolution.
 
-1. Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (In Press). Mechanistic spatial models for heavy metal pollution. Environmetrics. 
+1. Okasaki, C., M.B. Hooten, and A.M. Berdahl. (2022). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics, 52: 100707. [(pdf)](Okasaki_etal_SpatStat.pdf)
 
-1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (In Press). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics.
-
-1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
+1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (2022). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics, 27: 364-381. [(pdf)](Lu_etal_JABES_2022.pdf)
 
 1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions, 28: 793-809. [(pdf)](Raiho_etal_D&D_2022.pdf)
 

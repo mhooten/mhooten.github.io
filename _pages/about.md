@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+* New paper on record linkage for abundance estimation using aerial surveys:  
+
+Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (2022). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics, 27: 364-381.
+
 * New paper on how to infer sources in mechanistic spatio-temporal models:  
 
-Okasaki, C., M.B. Hooten, and A.M. Berdahl. (In Press). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics.
+Okasaki, C., M.B. Hooten, and A.M. Berdahl. (2022). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics, 52: 100707.
 
 * New paper accepted on mechanistic spatio-temporal models for spatial data:  
 
@@ -27,13 +31,5 @@ Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (2022). Community confounding in joint
 * New paper on inverse reinforcement learning for animal movement:  
 
 Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (2022). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics, 16: 999-1013. 
-
-* New paper on fast multi-stage computing:
-
-Johnson, D.S., B.M. Brost, and M.B. Hooten. (2022). Greater than the sum of its parts: Computationally flexible Bayesian hierarchical modeling. Journal of Agricultural, Biological, and Environmental Statistics, 27: 382-400.
-
-* New paper on landscape genetics:  
-
-Zimmerman, S., C. Aldridge, S. Oyler-McCance, and M.B. Hooten.  (2022).  Scale-dependent influence of the sagebrush community on genetic connectivity of the sagebrush obligate Gunnison sage-grouse.  Molecular Ecology, 31: 3267-3285.
 
 
