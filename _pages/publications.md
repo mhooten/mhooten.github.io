@@ -40,7 +40,7 @@ Papers
 
 1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
 
-1. Wenger, S.J., E. Stowe, K. Gido, M. Freeman, Y. Kanno, N. Franssen, J.D. Olden, L. Poff, A. Walters, P. Bumpers, M. Mims, M.B. Hooten, and X. Lu. (In Press). Simple statistical models can be sufficient for testing hypotheses with population time series data. Ecology and Evolution.
+1. Wenger, S.J., E. Stowe, K. Gido, M. Freeman, Y. Kanno, N. Franssen, J.D. Olden, L. Poff, A. Walters, P. Bumpers, M. Mims, M.B. Hooten, and X. Lu. (2022). Simple statistical models can be sufficient for testing hypotheses with population time series data. Ecology and Evolution, 12: e9339.
 
 1. Okasaki, C., M.B. Hooten, and A.M. Berdahl. (2022). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics, 52: 100707. [(pdf)](Okasaki_etal_SpatStat.pdf)
 
@@ -92,7 +92,7 @@ Papers
 
 1. Brost, B.M., M.B. Hooten, R.J. Small. (2020). Model-based clustering reveals patterns in central place use of a marine top predator. Ecosphere, 11: e03123. [(pdf)](Brost_etal_Ecosphere_2020.pdf)
 
-1. Hooten, M.B., X. Lu, M.J. Garlick, and J.A. Powell. (2020). Animal movement models with mechanistic selection functions. Spatial Statistics, 37: 100406. [(pdf)](Hooten_etal_SpatStat_2020.pdf)
+1. Hooten, M.B., X. Lu, M.J. Garlick, and J.A. Powell. (2020). Animal movement models with mechanistic selection functions. Spatial Statistics, 37: 100406. [(pdf)](Hooten_etal_SpatStat_2020.pdf) [(video)](https://youtu.be/jiZ1IiwE9k8)
 
 1. Lu, X., P.J. Williams, M.B. Hooten, J.A. Powell, J.N. Womble, and M.R. Bower. (2020). Nonlinear reaction-diffusion process models improve inference for population dynamics. Environmetrics, 31: e2604. [(pdf)](Lu_etal_Environ_2020.pdf)
 
