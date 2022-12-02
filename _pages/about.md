@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted at Frontiers:   
+
+Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (In Press). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment.
+
 * New paper on record linkage for abundance estimation using aerial surveys:  
 
 Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (2022). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics, 27: 364-381.
@@ -27,9 +31,5 @@ Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexib
 * New paper on community confouding:  
 
 Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (2022). Community confounding in joint species distribution models. Scientific Reports, 12: 12235.
-
-* New paper on inverse reinforcement learning for animal movement:  
-
-Schafer, T.L.J., C.K. Wikle, and M.B. Hooten. (2022). Bayesian inverse reinforcement learning for collective animal movement. Annals of Applied Statistics, 16: 999-1013. 
 
 
