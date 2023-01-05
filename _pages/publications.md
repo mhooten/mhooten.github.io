@@ -27,20 +27,21 @@ Books
   </a>
 </p>
 
-[//]: # 1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, Accepted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171107066F)
-
 
 Papers
 ------
 
-2022
+2023
 ------
 
 1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (In Press). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment.
 
-1. Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (In Press). Mechanistic spatial models for heavy metal pollution. Environmetrics. 
+2022
+------
 
-1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (In Press). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics.
+1. Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten. (2022). Multivariate Bayesian clustering using covariate-informed components with application to boreal vegetation sensitivity. Biometrics, 78: 1427-1440.
+
+1. Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (2022). Mechanistic spatial models for heavy metal pollution. Environmetrics, 33: e2760. 
 
 1. Wenger, S.J., E. Stowe, K. Gido, M. Freeman, Y. Kanno, N. Franssen, J.D. Olden, L. Poff, A. Walters, P. Bumpers, M. Mims, M.B. Hooten, and X. Lu. (2022). Simple statistical models can be sufficient for testing hypotheses with population time series data. Ecology and Evolution, 12: e9339.
 
@@ -48,7 +49,7 @@ Papers
 
 1. Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (2022). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics, 27: 364-381. [(pdf)](Lu_etal_JABES_2022.pdf)
 
-1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (In Press).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions, 28: 793-809. [(pdf)](Raiho_etal_D&D_2022.pdf)
+1. Raiho, A., H.R. Scharf, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B. Hooten.  (2022).  Searching for refuge:  A framework for identifying site factors conferring resistance to climate-driven vegetation change.  Diversity and Distributions, 28: 793-809. [(pdf)](Raiho_etal_D&D_2022.pdf)
 
 1. Van Ee, J.J., J.S. Ivan, and M.B. Hooten. (2022). Community confounding in joint species distribution models. Scientific Reports, 12: 12235. [(pdf)](VanEe_etal_SciReports_2022.pdf)
 
@@ -71,7 +72,7 @@ Papers
 
 1. Raiho, A., E.F. Nicklen, A. Foster, C.A. Roland, and M.B. Hooten.  (2021).  Bridging implementation gaps to connect large ecological datasets to complex models. Ecology and Evolution, 11: 18271-18287. [(pdf)](Raiho_etal_EE_2021.pdf)
 
-1. Lepak, J.M., A.G. Hansen, M.B. Hooten, D. Brauch, and E.M. Vigil. (In Press). Rapid proliferation of the parasitic copepod Salmincola californiensis on kokanee salmon in a large Colorado reservoir. Journal of Fish Diseases, 45: 89-98. [(pdf)](Lepak_etal_JFD_2021.pdf) 
+1. Lepak, J.M., A.G. Hansen, M.B. Hooten, D. Brauch, and E.M. Vigil. (2021). Rapid proliferation of the parasitic copepod Salmincola californiensis on kokanee salmon in a large Colorado reservoir. Journal of Fish Diseases, 45: 89-98. [(pdf)](Lepak_etal_JFD_2021.pdf) 
 
 1. Banks, D.L. and M.B. Hooten. (2021). Statistical challenges in agent-based modeling. The American Statistician, 75: 235-242.
 
