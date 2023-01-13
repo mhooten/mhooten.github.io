@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Biometrics:
+
+Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Multivariate spatio-temporal models for landscape change using aerial imagery. Biometrics.
+
 * New paper accepted at Frontiers:   
 
 Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (In Press). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment.
