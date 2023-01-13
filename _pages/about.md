@@ -10,7 +10,7 @@ redirect_from:
 
 * New paper accepted in Biometrics:
 
-Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Multivariate spatio-temporal models for landscape change using aerial imagery. Biometrics.
+Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
 
 * New paper accepted at Frontiers:   
 
