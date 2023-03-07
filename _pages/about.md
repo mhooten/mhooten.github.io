@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Environmetrics:
+
+Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (In Press).  Multistage hierarchical capture-recapture models.  Environmetrics.
+
 * New paper accepted in Biometrics:
 
 Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
@@ -31,9 +35,4 @@ Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (2022). Improving w
 * New paper in Spatial Statistics:  
 
 Okasaki, C., M.B. Hooten, and A.M. Berdahl. (2022). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics, 52: 100707.
-
-* New paper in ISR:  
-
-Scharf, H.R., X. Lu, P.J. Williams, and M.B. Hooten. (2022). Constructing flexible, identifiable, and interpretable statistical models for binary data. International Statistical Review, 90: 328-345.
-
 

@@ -23,9 +23,6 @@ Research:  Raptor migration dynamics
 1. Michael Schwob, PhD Statistics, UT-Austin   
 Research:  Agent-based models in ecology and epidemiology 
 
-1. George Valentine, MS Ecology, CSU (coadvised w/ Yoichiro Kanno)  
-Research:  Brook trout population dynamics and synchrony  
-
 1. Justin Van Ee, PhD Statistics, CSU (coadvised w/ Matt Koslovsky)  
 Research:  Multi-data source population models for lesser prairie-chicken 
 
@@ -34,6 +31,9 @@ Research:  Spatio-temporal models for diffusion of mine chemicals
 
 Former
 ------
+
+1. George Valentine, MS Ecology, CSU (coadvised w/ Yoichiro Kanno)  
+Current:  Researcher at USDA Forest Service
 
 1. Lucy Lu, PhD, CSU   
 Current:  Postdoc at Colorado State University 

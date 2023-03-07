@@ -34,7 +34,7 @@ Papers
 2023
 ------
 
-1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (In Revision).  Multistage hierarchical capture-recapture models.  arXiv:2205.04453. [(code)](Environmetrics_Code_Post.zip)
+1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (In Press).  Multistage hierarchical capture-recapture models.  Environmetrics.  arXiv:2205.04453. [(code)](Environmetrics_Code_Post.zip)
 
 1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
 
