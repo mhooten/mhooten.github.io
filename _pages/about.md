@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Journal of Animal Ecology:
+
+Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
+
 * New paper accepted in Environmetrics:
 
 Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (In Press).  Multistage hierarchical capture-recapture models.  Environmetrics.
@@ -31,8 +35,4 @@ Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (2022). Mechanistic sp
 * New paper in JABES:  
 
 Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (2022). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics, 27: 364-381.
-
-* New paper in Spatial Statistics:  
-
-Okasaki, C., M.B. Hooten, and A.M. Berdahl. (2022). Source reconstruction for spatio-temporal physical statistical models. Spatial Statistics, 52: 100707.
 
