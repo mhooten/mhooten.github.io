@@ -34,6 +34,8 @@ Papers
 2023
 ------
 
+1. Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (In Press). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics.
+
 1. Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
 
 1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (In Press).  Multistage hierarchical capture-recapture models.  Environmetrics.  arXiv:2205.04453. [(code)](Environmetrics_Code_Post.zip)

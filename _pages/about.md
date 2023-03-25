@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Ecological Informatics:
+
+Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (In Press). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics.
+
 * New paper accepted in Journal of Animal Ecology:
 
 Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
@@ -31,8 +35,4 @@ Scharf, H.R., A. Raiho, S. Pugh, C.A. Roland, D.K. Swanson, S.E. Stehn, and M.B.
 * New paper in Environmetrics:  
 
 Wright, W.J., P.N. Neitlich, A.E. Shiel, and M.B. Hooten. (2022). Mechanistic spatial models for heavy metal pollution. Environmetrics, 33: e2760.
-
-* New paper in JABES:  
-
-Lu, X., M.B. Hooten, A. Kaplan, J.N. Womble, and M.R. Bower. (2022). Improving wildlife population inference from aerial imagery data through entity resolution. Journal of Agricultural, Biological, and Environmental Statistics, 27: 364-381.
 
