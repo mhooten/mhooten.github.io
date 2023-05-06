@@ -34,7 +34,11 @@ Papers
 2023
 ------
 
-1. Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (In Press). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics.
+1. Lepak, J.M., B.M. Johnson, M.B. Hooten, B.A. Wolff, and A.G. Hansen. (In Press). Predicting sport fish mercury contamination in heavily managed reservoirs: Implications for human and ecological health. PLoS One.
+
+1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv.  [(video)](https://youtu.be/7Iq33IhKw-4)
+
+1. Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (2023). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics, 75: 102085.  [(pdf)](Williams_etal_EcoInfo_2023.pdf)
 
 1. Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
 
