@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* New paper accepted in Ecological Informatics:
+* New paper accepted in JABES:
 
 Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (In Press). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics.
 
