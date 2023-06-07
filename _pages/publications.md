@@ -42,13 +42,13 @@ Papers
 
 1. Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (2023). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics, 75: 102085.  [(pdf)](Williams_etal_EcoInfo_2023.pdf)
 
-1. Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
-
 1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (In Press).  Multistage hierarchical capture-recapture models.  Environmetrics.  arXiv:2205.04453. [(code)](Environmetrics_Code_Post.zip)
 
 1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
 
 1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (In Press). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment.
+
+1. Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (2023). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology, 92: 1230-1243. [(pdf)](Leach_etal_JAnimEcol_2023.pdf) 
 
 2022
 ------
