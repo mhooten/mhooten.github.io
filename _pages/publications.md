@@ -40,7 +40,7 @@ Papers
 
 1. Lepak, J.M., B.M. Johnson, M.B. Hooten, B.A. Wolff, and A.G. Hansen. (In Press). Predicting sport fish mercury contamination in heavily managed reservoirs: Implications for human and ecological health. PLoS One.
 
-1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv:2305.04141.  [(video)](https://youtu.be/7Iq33IhKw-4), [(slides)](Hooten_SpatStat_2023_slides.pdf)
+1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv:2305.04141.  [(video)](https://youtu.be/7Iq33IhKw-4)
 
 1. Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (2023). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics, 75: 102085.  [(pdf)](Williams_etal_EcoInfo_2023.pdf)
 
