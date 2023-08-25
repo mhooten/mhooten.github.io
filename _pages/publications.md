@@ -38,7 +38,7 @@ Papers
 
 1. Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (In Press). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics.
 
-1. Lepak, J.M., B.M. Johnson, M.B. Hooten, B.A. Wolff, and A.G. Hansen. (In Press). Predicting sport fish mercury contamination in heavily managed reservoirs: Implications for human and ecological health. PLoS One.
+1. Lepak, J.M., B.M. Johnson, M.B. Hooten, B.A. Wolff, and A.G. Hansen. (2023). Predicting sport fish mercury contamination in heavily managed reservoirs: Implications for human and ecological health. PLoS One, 18: e0285890. [(pdf)](Lepak_etal_PLoSOne_2023.pdf)
 
 1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv:2305.04141.  [(video)](https://youtu.be/7Iq33IhKw-4)
 
