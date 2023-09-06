@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper published in Environmetrics:
+
+Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hierarchical capture-recapture models.  Environmetrics, 34: e2799.
+
 * New paper accepted in Biometrics:
 
 Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (In Press).  Melding wildlife surveys to improve conservation inference.  Biometrics.
@@ -23,10 +27,6 @@ Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (In Press). Embracing asymm
 * New paper accepted in Journal of Animal Ecology:
 
 Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
-
-* New paper accepted in Environmetrics:
-
-Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (In Press).  Multistage hierarchical capture-recapture models.  Environmetrics.
 
 * New paper accepted in Biometrics:
 
