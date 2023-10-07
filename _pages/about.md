@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Global Change Biology:
+
+Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (In Press).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology.
+
 * New paper published in Environmetrics:
 
 Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hierarchical capture-recapture models.  Environmetrics, 34: e2799.
@@ -27,8 +31,4 @@ Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (In Press). Embracing asymm
 * New paper accepted in Journal of Animal Ecology:
 
 Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
-
-* New paper accepted in Biometrics:
-
-Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
 

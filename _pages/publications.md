@@ -34,6 +34,8 @@ Papers
 2023
 ------
 
+1. Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (In Press).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology.
+
 1. Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (In Press).  Melding wildlife surveys to improve conservation inference.  Biometrics. 
 
 1. Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (In Press). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics.
