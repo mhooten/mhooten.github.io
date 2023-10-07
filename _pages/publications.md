@@ -148,7 +148,7 @@ Papers
 
 1. Hooten, M.B. and D.S. Johnson. (2019). Modeling Animal Movement. Gelfand, A.E., M. Fuentes, and J.A. Hoeting (eds). In Handbook of Environmental and Ecological Statistics. Chapman & Hall/CRC.
 
-1. Hooten, M.B., H.R. Scharf, and J.M. Morales. (2019). Running on empty: Recharge dynamics from animal movement data. Ecology Letters, 22: 377-389. [(pdf)](Hooten_etal_EcolLetters_2019.pdf)
+1. Hooten, M.B., H.R. Scharf, and J.M. Morales. (2019). Running on empty: Recharge dynamics from animal movement data. Ecology Letters, 22: 377-389. [(pdf)](Hooten_etal_EcolLetters_2019.pdf) [(video)](https://youtu.be/IP4ka9TdtHM)
 
 2018
 ------

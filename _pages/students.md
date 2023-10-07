@@ -8,7 +8,7 @@ author_profile: true
 Postdocs
 ------
 
-1. Nikunj Goel, Postdoc, UT-Austin 
+1. Nikunj Goel, Postdoc, UT-Austin  
 Research:  Statistical models based on ecological theory for sensitive species  
 
 1. Clint Leach, Postdoc, CSU  
