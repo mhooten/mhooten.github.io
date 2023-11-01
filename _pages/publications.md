@@ -109,7 +109,7 @@ Papers
 
 1. Leach, C., J.A. Hoeting, K. Pepin, A. Eiras, M.B. Hooten, and C. Webb. (2020). Linking mosquito surveillance to dengue fever through Bayesian mechanistic modeling. PLoS Neglected Tropical Diseases, 14: e0008868. [(pdf)](Leach_etal_PNTD_2020.pdf)
 
-1. Hooten, M.B., C.K. Wikle, and M.R. Schwob. (2020). Statistical implementations of agent-based demographic models. International Statistical Review, 88: 441-461. [(pdf)](Hooten_etal_ISR_2020.pdf)
+1. Hooten, M.B., C.K. Wikle, and M.R. Schwob. (2020). Statistical implementations of agent-based demographic models. International Statistical Review, 88: 441-461. [(pdf)](Hooten_etal_ISR_2020.pdf) [(video)](https://youtu.be/5WzLC6bTwYo)
 
 1. Brost, B.M., M.B. Hooten, R.J. Small. (2020). Model-based clustering reveals patterns in central place use of a marine top predator. Ecosphere, 11: e03123. [(pdf)](Brost_etal_Ecosphere_2020.pdf)
 
