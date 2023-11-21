@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* New paper accepted in Global Change Biology:
+* New paper published in Global Change Biology:
 
-Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (In Press).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology.
+Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (2023).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology, 00: e17029.
 
 * New paper published in Environmetrics:
 
