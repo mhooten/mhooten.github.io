@@ -31,24 +31,27 @@ Books
 Papers
 ------
 
-2023
+2024
 ------
 
 1. Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (In Press).  Melding wildlife surveys to improve conservation inference.  Biometrics. 
 
 1. Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (In Press). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics.
 
-1. Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (2023).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology, 00: e17029. [(pdf)](Valentine_etal_GCB_2023.pdf) 
+1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv:2305.04141.  [(video)](https://youtu.be/7Iq33IhKw-4)
+
+1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
+
+1. Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (2024).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology, 30: e17029. [(pdf)](Valentine_etal_GCB_2023.pdf) 
+
+2023
+------
 
 1. Lepak, J.M., B.M. Johnson, M.B. Hooten, B.A. Wolff, and A.G. Hansen. (2023). Predicting sport fish mercury contamination in heavily managed reservoirs: Implications for human and ecological health. PLoS One, 18: e0285890. [(pdf)](Lepak_etal_PLoSOne_2023.pdf)
-
-1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv:2305.04141.  [(video)](https://youtu.be/7Iq33IhKw-4)
 
 1. Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (2023). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics, 75: 102085.  [(pdf)](Williams_etal_EcoInfo_2023.pdf)
 
 1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hierarchical capture-recapture models.  Environmetrics, 34: e2799. [(code)](Environmetrics_Code_Post.zip)
-
-1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
 
 1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (2023). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment. (cover article)
 
