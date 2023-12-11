@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Movement Ecology:
+
+Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (In Press). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology.
+
 * New paper published in Global Change Biology:
 
 Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (2024).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology, 30: e17029.
@@ -28,7 +32,4 @@ Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (In Press). Dynamic population mod
 
 Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (In Press). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics.
 
-* New paper accepted in Journal of Animal Ecology:
-
-Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology.
 

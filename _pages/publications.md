@@ -34,6 +34,8 @@ Papers
 2024
 ------
 
+1. Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (In Press). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology.
+
 1. Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (In Press).  Melding wildlife surveys to improve conservation inference.  Biometrics. 
 
 1. Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (In Press). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics.
