@@ -24,9 +24,9 @@ Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hie
 
 Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (In Press).  Melding wildlife surveys to improve conservation inference.  Biometrics.
 
-* New paper accepted in JABES:
+* New paper published in JABES:
 
-Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (In Press). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics.
+Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (2023). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics, 28: 774-791.
 
 * New paper accepted in Ecological Informatics:
 
