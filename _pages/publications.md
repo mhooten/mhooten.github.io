@@ -55,7 +55,7 @@ Papers
 
 1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hierarchical capture-recapture models.  Environmetrics, 34: e2799. [(code)](Environmetrics_Code_Post.zip)
 
-1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (2023). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment. (cover article)
+1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (2023). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment, 21: 479-488. (cover article)
 
 1. Leach, C.B., B.P. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (2023). Revealing the extent of sea otter impacts on bivalve prey through multi-trophic monitoring and mechanistic models. Journal of Animal Ecology, 92: 1230-1243. [(pdf)](Leach_etal_JAnimEcol_2023.pdf) 
 
