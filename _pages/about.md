@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper published in Biometrics:
+
+Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (2023).  Melding wildlife surveys to improve conservation inference.  Biometrics, 79: 3941-3953.
+
 * New paper accepted in Movement Ecology:
 
 Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (In Press). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology.
@@ -19,10 +23,6 @@ Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. L
 * New paper published in Environmetrics:
 
 Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hierarchical capture-recapture models.  Environmetrics, 34: e2799.
-
-* New paper accepted in Biometrics:
-
-Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (In Press).  Melding wildlife surveys to improve conservation inference.  Biometrics.
 
 * New paper published in JABES:
 

@@ -36,8 +36,6 @@ Papers
 
 1. Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (In Press). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology.
 
-1. Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (In Press).  Melding wildlife surveys to improve conservation inference.  Biometrics. 
-
 1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv:2305.04141.  [(video)](https://youtu.be/7Iq33IhKw-4)
 
 1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
@@ -46,6 +44,8 @@ Papers
 
 2023
 ------
+
+1. Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (2023).  Melding wildlife surveys to improve conservation inference.  Biometrics, 79: 3941-3953.  
 
 1. Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (2023). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics, 28: 774-791.
 
