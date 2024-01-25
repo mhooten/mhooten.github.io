@@ -14,9 +14,6 @@ Research:  Statistical models based on ecological theory for sensitive species
 1. Clint Leach, Postdoc, CSU  
 Research:  Mechanistic statistical models for marine foodwebs
 
-1. Lucy Lu, Postdoc, CSU  
-Research:  Population dynamic models for native coldwater fish
-
 1. Justin Van Ee, Postdoc, CSU  
 Research:  Statistical models for ecological genomics of invasive species 
 
