@@ -10,7 +10,7 @@ redirect_from:
 
 * New paper accepted in Spatial Statistics:
 
-Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Revision). Geostatistical capture-recapture models. Spatial Statistics.
+Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Press). Geostatistical capture-recapture models. Spatial Statistics.
 
 * New paper published in Biometrics:
 

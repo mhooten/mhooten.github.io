@@ -34,7 +34,7 @@ Papers
 2024
 ------
 
-1. Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Revision). Geostatistical capture-recapture models. Spatial Statistics. [(pdf)](https://arxiv.org/abs/2305.04141) [(video)](https://youtu.be/7Iq33IhKw-4)
+1. Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Press). Geostatistical capture-recapture models. Spatial Statistics. [(pdf)](https://arxiv.org/abs/2305.04141) [(video)](https://youtu.be/7Iq33IhKw-4)
 
 1. Neitlich, P.N., W. Wright, E. Di Meglio, A.E. Shiel, and M.B. Hooten. (In Press). Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017. PLoS One.
 
