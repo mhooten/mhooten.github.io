@@ -34,13 +34,11 @@ Papers
 2024
 ------
 
-1. Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Revision). Geostatistical capture-recapture models. Spatial Statistics.
+1. Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Revision). Geostatistical capture-recapture models. Spatial Statistics. [(pdf)](https://arxiv.org/abs/2305.04141) [(video)](https://youtu.be/7Iq33IhKw-4)
 
 1. Neitlich, P.N., W. Wright, E. Di Meglio, A.E. Shiel, and M.B. Hooten. (In Press). Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017. PLoS One.
 
 1. Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (In Press). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology.
-
-1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan. (2023).  Geostatistical capture-recapture models.  arXiv:2305.04141.  [(video)](https://youtu.be/7Iq33IhKw-4)
 
 1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
 
