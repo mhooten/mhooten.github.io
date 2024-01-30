@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Spatial Statistics:
+
+Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Revision). Geostatistical capture-recapture models. Spatial Statistics.
+
 * New paper published in Biometrics:
 
 Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (2023).  Melding wildlife surveys to improve conservation inference.  Biometrics, 79: 3941-3953.
@@ -27,9 +31,5 @@ Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hie
 * New paper published in JABES:
 
 Schwob, M.R., M.B. Hooten, T. McDevitt-Gales. (2023). Dynamic population models with temporal preferential sampling to infer phenology. Journal of Agricultural, Biological, and Environmental Statistics, 28: 774-791.
-
-* New paper accepted in Ecological Informatics:
-
-Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (In Press). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics.
 
 
