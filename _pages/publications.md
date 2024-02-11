@@ -38,9 +38,9 @@ Papers
 
 1. Neitlich, P.N., W. Wright, E. Di Meglio, A.E. Shiel, C.J. Hampton-Miller, and M.B. Hooten. (In Press). Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017. PLoS One.
 
-1. Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (In Press). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology.
-
 1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
+
+1. Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (2024). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology, 12: 14.
 
 1. Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (2024).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology, 30: e17029. [(pdf)](Valentine_etal_GCB_2023.pdf) 
 

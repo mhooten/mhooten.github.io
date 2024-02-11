@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper published in Movement Ecology:
+
+Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (2024). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology, 12: 14.
+
 * New paper accepted in Spatial Statistics:
 
 Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Press). Geostatistical capture-recapture models. Spatial Statistics.
@@ -15,10 +19,6 @@ Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Press). Geostatistical capture-
 * New paper published in Biometrics:
 
 Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (2023).  Melding wildlife surveys to improve conservation inference.  Biometrics, 79: 3941-3953.
-
-* New paper accepted in Movement Ecology:
-
-Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (In Press). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology.
 
 * New paper published in Global Change Biology:
 
