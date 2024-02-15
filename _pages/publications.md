@@ -34,11 +34,9 @@ Papers
 2024
 ------
 
-[//]: # 1. Hooten, M.B., M.R. Schwob, and D.S. Johnson. (In Press). Geostatistical capture-recapture models. Spatial Statistics. [(pdf)](https://arxiv.org/abs/2305.04141) [(video)](https://youtu.be/7Iq33IhKw-4)
-
 1. Neitlich, P.N., W. Wright, E. Di Meglio, A.E. Shiel, C.J. Hampton-Miller, and M.B. Hooten. (In Press). Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017. PLoS One.
 
-1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (In Press). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics.
+1. Hooten, M.B., M.R. Schwob, and D.S. Johnson. (2024). Geostatistical capture-recapture models. Spatial Statistics, 59: 100817. [(pdf)](Hooten_etal_SpatStat_2024.pdf) [(video)](https://youtu.be/7Iq33IhKw-4)
 
 1. Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (2024). Rayleigh step-selection functions and connections to continuous-time mechanistic movement models. Movement Ecology, 12: 14.
 
@@ -46,6 +44,8 @@ Papers
 
 2023
 ------
+
+1. Lu, X., M.B. Hooten, A.M. Raiho, D.K. Swanson, C.A. Roland, and S.E. Stehn. (2023). Latent trajectory models for spatio-temporal dynamics in Alaskan ecosystems. Biometrics, 79: 3664-3675.
 
 1. Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (2023).  Melding wildlife surveys to improve conservation inference.  Biometrics, 79: 3941-3953.  
 
