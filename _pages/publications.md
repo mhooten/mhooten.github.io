@@ -34,6 +34,8 @@ Papers
 2024
 ------
 
+1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.
+
 1. Neitlich, P.N., W. Wright, E. Di Meglio, A.E. Shiel, C.J. Hampton-Miller, and M.B. Hooten. (In Press). Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017. PLoS One.
 
 1. Hooten, M.B., M.R. Schwob, and D.S. Johnson. (2024). Geostatistical capture-recapture models. Spatial Statistics, 59: 100817. [(pdf)](Hooten_etal_SpatStat_2024.pdf) [(video)](https://youtu.be/7Iq33IhKw-4)
