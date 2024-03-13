@@ -34,6 +34,8 @@ Papers
 2024
 ------
 
+1. Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (In Press). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics.
+
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
 
 1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.

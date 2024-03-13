@@ -10,6 +10,10 @@ redirect_from:
 
 * New paper accepted in JABES:
 
+Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (In Press). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics.
+
+* New paper accepted in JABES:
+
 Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
 
 * New paper accepted in Movement Ecology:
@@ -27,8 +31,4 @@ Eisaguirre, J.M., P.J. Williams, and M.B. Hooten. (2024). Rayleigh step-selectio
 * New paper published in Biometrics:
 
 Van Ee, J., C. Hagen, D. Pavlacky, K. Fricke, M. Koslovsky, and M.B. Hooten.  (2023).  Melding wildlife surveys to improve conservation inference.  Biometrics, 79: 3941-3953.
-
-* New paper published in Global Change Biology:
-
-Valentine, G.P., X. Lu, E. Childress, C.A. Dolloff, N.P. Hitt, M.A. Kulp, B.H. Letcher, K.C. Pregler, J.M. Rash, M.B. Hooten, and Y. Kanno.  (2024).  Spatial asynchrony and cross-scale climate interactions in populations of a coldwater stream fish.  Global Change Biology, 30: e17029.
 
