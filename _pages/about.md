@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in River Research and Applications:
+
+Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
+
 * New paper accepted in Journal of Applied Ecology:
 
 Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (In Press). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid.  Journal of Applied Ecology. 
