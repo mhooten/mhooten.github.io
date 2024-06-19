@@ -8,6 +8,9 @@ author_profile: true
 Postdocs
 ------
 
+1. Alex Barth, Postdoc, UT-Austin (co-advised w/ Jordan Casey) 
+Research:  Lower-trophic estuary ecosystem dynamics   
+
 1. Nikunj Goel, Postdoc, UT-Austin  
 Research:  Statistical models based on ecological theory for sensitive species  
 
@@ -17,17 +20,26 @@ Research:  Mechanistic statistical models for marine foodwebs
 1. Justin Van Ee, Postdoc, CSU  
 Research:  Statistical models for ecological genomics of invasive species 
 
+1. Myungsoo Yoo, Postdoc, UT-Austin  
+Research:  Statistical models for animal movement
+
 Students
 ------
 
-1. Michael Schwob, PhD Statistics, UT-Austin   
+1. Daniel Barreto, PhD Statistics, UT-Austin 
+Research: Robust recursive Bayes 
+
+1. Michael Schwob, PhD Statistics, UT-Austin 
 Research:  Agent-based models in ecology and epidemiology 
 
-1. Wilson Wright, PhD Statistics, CSU (coadvised w/ Dan Cooley)  
-Research:  Spatio-temporal models for diffusion of mine chemicals 
+1. Rachael Ren, PhD Statistics, UT-Austin 
+Research:  Harbor seal and ice dynamics in Glacier Bay, Alaska
 
 Former
 ------
+
+1. Wilson Wright, PhD Statistics, CSU (coadvised w/ Dan Cooley)  
+Current:  Asst. Professor at University of Missouri 
 
 1. Justin Van Ee, PhD Statistics, CSU (coadvised w/ Matt Koslovsky)  
 Current:  Postdoc at Colorado State University 
