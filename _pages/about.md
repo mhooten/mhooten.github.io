@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+* New paper published in Journal of Applied Ecology:
+
+Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (2024). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid. Journal of Applied Ecology, 61: 1703-1715. [(pdf)](Lu_etal_JAE_2023.pdf)
+
 * New paper accepted in River Research and Applications:
 
 Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
-
-* New paper accepted in Journal of Applied Ecology:
-
-Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (In Press). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid.  Journal of Applied Ecology. 
 
 * New paper accepted in JABES:
 
