@@ -42,7 +42,7 @@ Papers
 
 1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.
 
-1. Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (2024). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid. Journal of Applied Ecology, 61: 1703-1715. [(pdf)](Lu_etal_JAE_2023.pdf)
+1. Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (2024). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid. Journal of Applied Ecology, 61: 1703-1715. [(pdf)](Lu_etal_JAE_2024.pdf)
 
 1. Neitlich, P.N., W. Wright, E. Di Meglio, A.E. Shiel, C.J. Hampton-Miller, and M.B. Hooten. (2024). Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017. PLoS One, 19: e0297777.
 
