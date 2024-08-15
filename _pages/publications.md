@@ -34,6 +34,8 @@ Papers
 2024
 ------
 
+1. Wikle, C.K., M.B. Hooten, W. Kleiber, and D.W. Nychka.  (In Press).  Spatial statistics:  Climate and the environment.  Spatial Statistics.
+
 1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
 
 1. Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (In Press). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics.
