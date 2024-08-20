@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+* New paper published in MEE:
+
+Hui, F. and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
+Methods in Ecology and Evolution.
+
 * New paper published in Journal of Applied Ecology:
 
 Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (2024). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid. Journal of Applied Ecology, 61: 1703-1715. 
@@ -23,10 +28,6 @@ Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Ta
 * New paper accepted in JABES:
 
 Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
-
-* New paper accepted in Movement Ecology:
-
-Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.
 
 * New paper published in Spatial Statistics:
 

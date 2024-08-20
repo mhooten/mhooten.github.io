@@ -34,6 +34,9 @@ Papers
 2024
 ------
 
+1. Hui, F. and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
+Methods in Ecology and Evolution.
+
 1. Wikle, C.K., M.B. Hooten, W. Kleiber, and D.W. Nychka.  (In Press).  Spatial statistics:  Climate and the environment.  Spatial Statistics.
 
 1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
