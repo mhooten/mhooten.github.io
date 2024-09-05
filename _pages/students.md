@@ -14,9 +14,6 @@ Research:  Lower-trophic estuary ecosystem dynamics
 1. Nikunj Goel, Postdoc, UT-Austin  
 Research:  Statistical models based on ecological theory for sensitive species  
 
-1. Clint Leach, Postdoc, CSU  
-Research:  Mechanistic statistical models for marine foodwebs
-
 1. Justin Van Ee, Postdoc, CSU  
 Research:  Statistical models for ecological genomics of invasive species 
 
@@ -37,6 +34,9 @@ Research:  Harbor seal and ice dynamics in Glacier Bay, Alaska
 
 Former
 ------
+
+1. Clint Leach, Postdoc, CSU  
+Current:  Asst. Unit Leader, Nebraska Cooperative Fish and Wildlife Research Unit; Asst. Professor, University of Nebraska
 
 1. Wilson Wright, PhD Statistics, CSU (coadvised w/ Dan Cooley)  
 Current:  Asst. Professor at University of Missouri 
