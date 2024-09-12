@@ -12,10 +12,10 @@ Postdocs
 Research:  Lower-trophic estuary ecosystem dynamics   
 
 1. Nikunj Goel, Postdoc, UT-Austin   
-Research:  Statistical models based on ecological theory for sensitive species  
+Research:  Statistical models based on ecological and evolutionary theory 
 
 1. Justin Van Ee, Postdoc, CSU   
-Research:  Statistical models for ecological genomics of invasive species 
+Research:  Statistical models for ecological genomics 
 
 1. Myungsoo Yoo, Postdoc, UT-Austin    
 Research:  Statistical models for animal movement
@@ -24,13 +24,13 @@ Students
 ------
 
 1. Daniel Barreto, PhD Statistics, UT-Austin   
-Research: Robust recursive Bayes 
+Research:  Multistage implementations of spatial statistical models 
 
 1. Michael Schwob, PhD Statistics, UT-Austin   
-Research:  Agent-based models in ecology and epidemiology 
+Research:  Dynamic models for dependent data 
 
 1. Rachael Ren, PhD Statistics, UT-Austin   
-Research:  Harbor seal and ice dynamics in Glacier Bay, Alaska
+Research:  Multistage modeling of marine mammal distribution and space use
 
 Former
 ------
