@@ -36,7 +36,7 @@ Papers
 
 1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
 
-1. Hui, F. and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
+1. Hui, F., Q. Vu, and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
 Methods in Ecology and Evolution.
 
 1. Wikle, C.K., M.B. Hooten, W. Kleiber, and D.W. Nychka.  (In Press).  Spatial statistics:  Climate and the environment.  Spatial Statistics.

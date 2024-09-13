@@ -14,7 +14,7 @@ Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic mod
 
 * New paper published in MEE:
 
-Hui, F. and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
+Hui, F., Q. Vu, and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
 Methods in Ecology and Evolution.
 
 * New paper published in Journal of Applied Ecology:
