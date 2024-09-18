@@ -34,6 +34,8 @@ Papers
 2024
 ------
 
+1. McDevitt-Gales, T., A.T. Degaetano, S. Elmendorf, J.R. Foster, H.S Ginsberg, M.B. Hooten, S. LaDeau, K.M. McClure, S. Paull, E. Posthumus, I. Rochlin, and D. Grear. (In Press). Partly Cloudy with a Chance of Mosquitoes: Developing a macroecological approach to forecasting mosquito populations and phenology under changing climates. Ecosphere.
+
 1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
 
 1. Hui, F., Q. Vu, and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
