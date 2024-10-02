@@ -38,9 +38,6 @@ Papers
 
 1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
 
-1. Hui, F., Q. Vu, and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
-Methods in Ecology and Evolution.
-
 1. Wikle, C.K., M.B. Hooten, W. Kleiber, and D.W. Nychka.  (In Press).  Spatial statistics:  Climate and the environment.  Spatial Statistics.
 
 1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
@@ -50,6 +47,8 @@ Methods in Ecology and Evolution.
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
 
 1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.
+
+1. Hui, F., Q. Vu, and M.B. Hooten. (2024). Spatial confounding in joint species distribution models. Methods in Ecology and Evolution, 15: 1906-1921. [(pdf)](Hui_etal_MEE_2024.pdf)
 
 1. Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (2024). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid. Journal of Applied Ecology, 61: 1703-1715. [(pdf)](Lu_etal_JAE_2024.pdf)
 

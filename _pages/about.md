@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* New paper published in Biometrics:
-
-Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
-
 * New paper published in MEE:
 
-Hui, F., Q. Vu, and M.B. Hooten. (In Press). Spatial confounding in joint species distribution models.
-Methods in Ecology and Evolution.
+Hui, F., Q. Vu, and M.B. Hooten. (2024). Spatial confounding in joint species distribution models. Methods in Ecology and Evolution, 15: 1906-1921. [(pdf)](Hui_etal_MEE_2024.pdf)
+
+* New paper accepted in Biometrics:
+
+Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
 
 * New paper published in Journal of Applied Ecology:
 
