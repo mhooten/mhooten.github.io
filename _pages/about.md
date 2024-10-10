@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Ecosphere:
+
+Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). The dynamics of sea otter prey selection under population growth and expansion. Ecosphere.
+
 * New paper published in MEE:
 
 Hui, F., Q. Vu, and M.B. Hooten. (2024). Spatial confounding in joint species distribution models. Methods in Ecology and Evolution, 15: 1906-1921. [(pdf)](Hui_etal_MEE_2024.pdf)
@@ -27,8 +31,4 @@ Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Ta
 * New paper accepted in JABES:
 
 Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
-
-* New paper published in Spatial Statistics:
-
-Hooten, M.B., M.R. Schwob, and D.S. Johnson. (2024). Geostatistical capture-recapture models. Spatial Statistics, 59: 100817.
 
