@@ -34,6 +34,8 @@ Papers
 2024
 ------
 
+1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
+
 1. Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). The dynamics of sea otter prey selection under population growth and expansion. Ecosphere.
 
 1. McDevitt-Gales, T., A.T. Degaetano, S. Elmendorf, J.R. Foster, H.S Ginsberg, M.B. Hooten, S. LaDeau, K.M. McClure, S. Paull, E. Posthumus, I. Rochlin, and D. Grear. (In Press). Partly Cloudy with a Chance of Mosquitoes: Developing a macroecological approach to forecasting mosquito populations and phenology under changing climates. Ecosphere.
