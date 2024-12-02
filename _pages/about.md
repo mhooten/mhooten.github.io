@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Ecological Monographs:
+
+Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Keitt.  (In Press).  A mechanistic statistical approach to infer invasion characteristics of human-dispersed species with complex life cycle.  Ecological Monographs.
+
 * New paper accepted in Bayesian Analysis:
 
 Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
@@ -28,7 +32,4 @@ Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic mod
 
 Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (2024). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid. Journal of Applied Ecology, 61: 1703-1715. 
 
-* New paper accepted in JABES:
-
-Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (In Press). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics.
 

@@ -34,6 +34,8 @@ Papers
 2024
 ------
 
+1. Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Keitt.  (In Press).  A mechanistic statistical approach to infer invasion characteristics of human-dispersed species with complex life cycle.  Ecological Monographs.
+
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
 
 1. Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). The dynamics of sea otter prey selection under population growth and expansion. Ecosphere.
