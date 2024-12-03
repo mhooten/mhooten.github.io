@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Ecology:
+
+Vahsen, M.L., T.M. Maxwell, D.M. Blumenthal, D. Gamba, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A Leger, N. Pirtel, L.M. Porensky, S. Romero, J.J. Van Ee, S.M. Copeland, D.J. Ensing, P.B. Adler.  (In Press).  Phenological sensitivity of Bromus tectorum genotypes depends on current and source environments.  Ecology.
+
 * New paper accepted in Ecological Monographs:
 
 Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Keitt.  (In Press).  A mechanistic statistical approach to infer invasion characteristics of human-dispersed species with complex life cycle.  Ecological Monographs.
@@ -27,9 +31,5 @@ Hui, F., Q. Vu, and M.B. Hooten. (2024). Spatial confounding in joint species di
 * New paper accepted in Biometrics:
 
 Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
-
-* New paper published in Journal of Applied Ecology:
-
-Lu, X., Y. Kanno, G. Valentine, G. Rash, and M.B. Hooten. (2024). Using multi-scale spatial models of dendritic ecosystems to infer abundance of a stream salmonid. Journal of Applied Ecology, 61: 1703-1715. 
 
 
