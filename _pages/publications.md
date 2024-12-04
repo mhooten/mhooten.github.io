@@ -40,8 +40,6 @@ Papers
 
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
 
-1. Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). The dynamics of sea otter prey selection under population growth and expansion. Ecosphere.
-
 1. McDevitt-Gales, T., A.T. Degaetano, S. Elmendorf, J.R. Foster, H.S Ginsberg, M.B. Hooten, S. LaDeau, K.M. McClure, S. Paull, E. Posthumus, I. Rochlin, and D. Grear. (In Press). Partly Cloudy with a Chance of Mosquitoes: Developing a macroecological approach to forecasting mosquito populations and phenology under changing climates. Ecosphere.
 
 1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
@@ -55,6 +53,8 @@ Papers
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
 
 1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.
+
+1. Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten.  (2024).  The dynamics of sea otter prey selection under population growth and expansion.  Ecosphere, 15:  e70084. [(pdf)](Leach_etal_Ecosphere_2024.pdf)
 
 1. Hui, F., Q. Vu, and M.B. Hooten. (2024). Spatial confounding in joint species distribution models. Methods in Ecology and Evolution, 15: 1906-1921. [(pdf)](Hui_etal_MEE_2024.pdf)
 

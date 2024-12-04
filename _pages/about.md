@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<<<<<<< HEAD
+=======
+* New paper accepted in Ecosphere:
+
+Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten.  (2024).  The dynamics of sea otter prey selection under population growth and expansion.  Ecosphere, 15:  e70084.
+
+>>>>>>> d7b5c9c (20241204_3)
 * New paper accepted in Ecology:
 
 Vahsen, M.L., T.M. Maxwell, D.M. Blumenthal, D. Gamba, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A Leger, N. Pirtel, L.M. Porensky, S. Romero, J.J. Van Ee, S.M. Copeland, D.J. Ensing, P.B. Adler.  (In Press).  Phenological sensitivity of Bromus tectorum genotypes depends on current and source environments.  Ecology.
@@ -19,10 +26,6 @@ Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Ke
 * New paper accepted in Bayesian Analysis:
 
 Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
-
-* New paper accepted in Ecosphere:
-
-Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten. (In Press). The dynamics of sea otter prey selection under population growth and expansion. Ecosphere.
 
 * New paper published in MEE:
 
