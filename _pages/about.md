@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Biometrics:
+
+Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics.
+
 * New paper published in Ecosphere:
 
 Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten.  (2024).  The dynamics of sea otter prey selection under population growth and expansion.  Ecosphere, 15:  e70084.
@@ -23,10 +27,6 @@ Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Ke
 * New paper accepted in Bayesian Analysis:
 
 Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
-
-* New paper published in MEE:
-
-Hui, F., Q. Vu, and M.B. Hooten. (2024). Spatial confounding in joint species distribution models. Methods in Ecology and Evolution, 15: 1906-1921. [(pdf)](Hui_etal_MEE_2024.pdf)
 
 * New paper accepted in Biometrics:
 
