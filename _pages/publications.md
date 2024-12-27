@@ -31,7 +31,7 @@ Books
 Papers
 ------
 
-2024
+2025
 ------
 
 1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics.
@@ -55,6 +55,9 @@ Papers
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
 
 1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.
+
+2024
+------
 
 1. Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten.  (2024).  The dynamics of sea otter prey selection under population growth and expansion.  Ecosphere, 15:  e70084. 
 
