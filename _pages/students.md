@@ -14,9 +14,6 @@ Research:  Lower-trophic estuary ecosystem dynamics
 1. Nikunj Goel, Postdoc, UT-Austin   
 Research:  Statistical models based on ecological and evolutionary theory 
 
-1. Justin Van Ee, Postdoc, CSU   
-Research:  Statistical models for ecological genomics 
-
 1. Myungsoo Yoo, Postdoc, UT-Austin    
 Research:  Statistical models for animal movement
 
@@ -35,14 +32,14 @@ Research:  Multistage modeling of marine mammal distribution and space use
 Former
 ------
 
+1. Justin Van Ee, PhD Statistics, CSU (coadvised w/ Matt Koslovsky)   
+Current:  Statistician at the National Oceanic and Atmospheric Administration (NOAA) 
+
 1. Clint Leach, Postdoc, CSU   
 Current:  Asst. Unit Leader, Nebraska Cooperative Fish and Wildlife Research Unit; Asst. Professor, University of Nebraska
 
 1. Wilson Wright, PhD Statistics, CSU (coadvised w/ Dan Cooley)   
 Current:  Asst. Professor at University of Missouri 
-
-1. Justin Van Ee, PhD Statistics, CSU (coadvised w/ Matt Koslovsky)   
-Current:  Postdoc at Colorado State University 
 
 1. George Valentine, MS Ecology, CSU (coadvised w/ Yoichiro Kanno)   
 Current:  Researcher at USDA Forest Service
