@@ -32,16 +32,16 @@ Research:  Multistage modeling of marine mammal distribution and space use
 Former
 ------
 
-1. Justin Van Ee, PhD Statistics, CSU (coadvised w/ Matt Koslovsky)   
+1. Justin Van Ee, PhD, CSU (coadvised w/ Matt Koslovsky)   
 Current:  Statistician at the National Oceanic and Atmospheric Administration (NOAA) 
 
 1. Clint Leach, Postdoc, CSU   
 Current:  Asst. Unit Leader, Nebraska Cooperative Fish and Wildlife Research Unit; Asst. Professor, University of Nebraska
 
-1. Wilson Wright, PhD Statistics, CSU (coadvised w/ Dan Cooley)   
+1. Wilson Wright, PhD, CSU (coadvised w/ Dan Cooley)   
 Current:  Asst. Professor at University of Missouri 
 
-1. George Valentine, MS Ecology, CSU (coadvised w/ Yoichiro Kanno)   
+1. George Valentine, MS, CSU (coadvised w/ Yoichiro Kanno)   
 Current:  Researcher at USDA Forest Service
 
 1. Lucy Lu, PhD, CSU   
