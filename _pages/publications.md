@@ -38,8 +38,6 @@ Papers
 
 1. Vahsen, M.L., T.M. Maxwell, D.M. Blumenthal, D. Gamba, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A Leger, N. Pirtel, L.M. Porensky, S. Romero, J.J. Van Ee, S.M. Copeland, D.J. Ensing, P.B. Adler.  (In Press).  Phenological sensitivity of Bromus tectorum genotypes depends on current and source environments.  Ecology.
 
-1. Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Keitt.  (In Press).  A mechanistic statistical approach to infer invasion characteristics of human-dispersed species with complex life cycle.  Ecological Monographs.
-
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
 
 1. McDevitt-Gales, T., A.T. Degaetano, S. Elmendorf, J.R. Foster, H.S Ginsberg, M.B. Hooten, S. LaDeau, K.M. McClure, S. Paull, E. Posthumus, I. Rochlin, and D. Grear. (In Press). Partly Cloudy with a Chance of Mosquitoes: Developing a macroecological approach to forecasting mosquito populations and phenology under changing climates. Ecosphere.
@@ -55,6 +53,8 @@ Papers
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
 
 1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (In Press).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology.
+
+1. Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Keitt.  (2025).  A mechanistic statistical approach to infer invasion characteristics of human-dispersed species with complex life cycle.  Ecological Monographs, 95: e70003. [(pdf)](Goel_etal_EcolMono_2025.pdf)
 
 2024
 ------
