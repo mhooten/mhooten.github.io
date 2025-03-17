@@ -8,21 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+* New paper published in Ecology:
+
+Vahsen, M.L., T.M. Maxwell, D.M. Blumenthal, D. Gamba, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A Leger, N. Pirtel, L.M. Porensky, S. Romero, J.J. Van Ee, S.M. Copeland, D.J. Ensing, P.B. Adler.  (2025).  Phenological sensitivity of Bromus tectorum genotypes depends on current and source environments.  Ecology, 106: e70025. [(pdf)](../_publications/Vahsen_etal_Ecology_2025.pdf)
+
 * New paper published in Ecological Monographs: 
 
-Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Keitt.  (2025).  A mechanistic statistical approach to infer invasion characteristics of human-dispersed species with complex life cycle.  Ecological Monographs, 95: e70003. [(pdf)](Goel_etal_EcolMono_2025.pdf)
+Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Keitt.  (2025).  A mechanistic statistical approach to infer invasion characteristics of human-dispersed species with complex life cycle.  Ecological Monographs, 95: e70003. [(pdf)](../_publications/Goel_etal_EcolMono_2025.pdf)
 
 * New paper accepted in Biometrics:
 
 Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics.
-
-* New paper published in Ecosphere:
-
-Leach, C.B., B. Weitzman, J. Bodkin, D. Esler, G.G. Esslinger, K.A. Kloecker, D. Monson, J.N. Womble, and M.B. Hooten.  (2024).  The dynamics of sea otter prey selection under population growth and expansion.  Ecosphere, 15:  e70084.
-
-* New paper accepted in Ecology:
-
-Vahsen, M.L., T.M. Maxwell, D.M. Blumenthal, D. Gamba, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A Leger, N. Pirtel, L.M. Porensky, S. Romero, J.J. Van Ee, S.M. Copeland, D.J. Ensing, P.B. Adler.  (In Press).  Phenological sensitivity of Bromus tectorum genotypes depends on current and source environments.  Ecology.
 
 * New paper accepted in Bayesian Analysis:
 
