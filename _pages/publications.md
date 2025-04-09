@@ -34,6 +34,8 @@ Papers
 2025
 ------
 
+1. Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (In Press).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics.
+
 1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics.
 
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.

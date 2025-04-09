@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Spatial Statistics:
+
+Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (In Press).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics.
+
 * New paper published in Ecology:
 
 Vahsen, M.L., T.M. Maxwell, D.M. Blumenthal, D. Gamba, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A Leger, N. Pirtel, L.M. Porensky, S. Romero, J.J. Van Ee, S.M. Copeland, D.J. Ensing, P.B. Adler.  (2025).  Phenological sensitivity of Bromus tectorum genotypes depends on current and source environments.  Ecology, 106: e70025. [(pdf)](../_publications/Vahsen_etal_Ecology_2025.pdf)
@@ -23,9 +27,5 @@ Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  
 * New paper accepted in Bayesian Analysis:
 
 Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
-
-* New paper accepted in Biometrics:
-
-Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
 
 
