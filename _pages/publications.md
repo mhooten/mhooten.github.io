@@ -38,6 +38,8 @@ Papers
 
 1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics.
 
+1. Wright, W.J. and M.B. Hooten.  (In Press).  Rejoinder to the discussion on ``Continuous-space occupancy models.''  Biometrics.
+
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
 
 1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
