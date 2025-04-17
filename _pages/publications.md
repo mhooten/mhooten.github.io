@@ -140,7 +140,7 @@ Papers
 
 1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, W.W. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (2021). Diffusion modeling reveals effects of multiple release sites and human activity on a recolonizing apex predator. Movement Ecology, 9: 34.  [(pdf)](Eisaguirre_etal_MoveEcol_2021.pdf)
 
-1. Hooten, M.B., D.S. Johnson, and B.M. Brost. (2021). Making recursive Bayesian inference accessible. The American Statistician, 75: 185-194. [(pdf)](Hooten_etal_AmStat_2021.pdf) [(video)](https://youtu.be/VtMC7XADPYE)
+1. Hooten, M.B., D.S. Johnson, and B.M. Brost. (2021). Making recursive Bayesian inference accessible. The American Statistician, 75: 185-194. [(pdf)](Hooten_etal_AmStat_2021.pdf) [(video 1)](https://youtu.be/VtMC7XADPYE) [(video 2)](https://youtu.be/IHWaryzo9oM)
 
 1. McCaslin, H.M., A.B. Feuka, and M.B. Hooten. (2021). Hierarchical computing for hierarchical models in ecology. Methods in Ecology and Evolution, 12: 245-254. [(pdf)](McCaslin_etal_MEE_2020.pdf) [(video)](https://www.youtube.com/watch?v=Tu1O07MdGiQ)
 
