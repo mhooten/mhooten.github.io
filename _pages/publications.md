@@ -8,6 +8,12 @@ author_profile: true
 Books
 ------
 
+* Hobbs, N.T. and M.B. Hooten. (2025). Bayesian Models: A Statistical Primer for Ecologists, Second Edition. Princeton University Press. 
+<p align="center">
+  <a href="https://www.amazon.com/Bayesian-Models-Statistical-Primer-Ecologists-dp-069125012X/dp/069125012X/" title="">
+    <img src="Hobbs_Hooten_BayesModels_2ndEd_2025.jpg" alt="" width="100" />
+  </a>
+</p>
 * Hooten, M.B. and T.J. Hefley. (2019). Bringing Bayesian Models to Life. Chapman and Hall/CRC. [(code)](BBM2L_Code.zip) [(errata)](Hooten_Hefley_BBM2L_2019_errata.pdf) 
 <p align="center">
   <a href="https://www.amazon.com/Bringing-Bayesian-Chapman-Environmental-Statistics/dp/0367198487" title="">
