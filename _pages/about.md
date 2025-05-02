@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* New paper accepted in Spatial Statistics:
+* New paper published in Spatial Statistics:
 
-Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (In Press).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics.
+Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (2025).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics, 67:  100902.
 
 * New paper published in Ecology:
 
@@ -22,7 +22,7 @@ Goel, N., A.M. Liebhold, C. Bertelsmeier, M.B. Hooten, K.S. Korolev, and T.H. Ke
 
 * New paper accepted in Biometrics:
 
-Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics.
+Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics. [discussion paper]
 
 * New paper accepted in Bayesian Analysis:
 

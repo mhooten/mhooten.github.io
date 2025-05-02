@@ -40,11 +40,9 @@ Papers
 2025
 ------
 
-1. Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (In Press).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics.
+1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics. [discussion paper]
 
-1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics.
-
-1. Wright, W.J. and M.B. Hooten.  (In Press).  Rejoinder to the discussion on ``Continuous-space occupancy models.''  Biometrics.
+1. Wright, W.J. and M.B. Hooten.  (In Press).  Rejoinder to the discussion on "Continuous-space occupancy models."  Biometrics.
 
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
 
@@ -55,6 +53,8 @@ Papers
 1. Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (In Press). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics.
 
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
+
+1. Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (2025).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics, 67: 100902.
 
 1. Vahsen, M.L., T.M. Maxwell, D.M. Blumenthal, D. Gamba, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A Leger, N. Pirtel, L.M. Porensky, S. Romero, J.J. Van Ee, S.M. Copeland, D.J. Ensing, P.B. Adler.  (2025).  Phenological sensitivity of Bromus tectorum genotypes depends on current and source environments.  Ecology, 106: e70025. [(pdf)](Vahsen_etal_Ecology_2025.pdf)
 
