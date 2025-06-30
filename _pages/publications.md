@@ -46,8 +46,6 @@ Papers
 
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
 
-1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (In Press).  Composite dyadic models for spatio-temporal data.  Biometrics.
-
 1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
 
 1. Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (In Press). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics.
@@ -62,6 +60,8 @@ Papers
 
 2024
 ------
+
+1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (2024).  Composite dyadic models for spatio-temporal data.  Biometrics, 80: ujae107.
 
 1. McDevitt-Gales, T., A.T. Degaetano, S. Elmendorf, J.R. Foster, H.S Ginsberg, M.B. Hooten, S. LaDeau, K.M. McClure, S. Paull, E. Posthumus, I. Rochlin, and D. Grear. (2024). Partly Cloudy with a Chance of Mosquitoes: Developing a macroecological approach to forecasting mosquito populations and phenology under changing climates. Ecosphere, 15: e70074.
 
