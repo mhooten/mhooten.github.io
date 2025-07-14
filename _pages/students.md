@@ -14,6 +14,9 @@ Research:  Lower-trophic estuary ecosystem dynamics
 1. Nikunj Goel, Postdoc, UT-Austin   
 Research:  Statistical models based on ecological and evolutionary theory 
 
+1. Justin Van Ee, Postdoc, UT-Austin
+Research:  Statistical models for spatial ecological processes networks
+
 1. Myungsoo Yoo, Postdoc, UT-Austin    
 Research:  Statistical models for animal movement
 
@@ -23,17 +26,14 @@ Students
 1. Daniel Barreto, PhD Statistics, UT-Austin   
 Research:  Multistage implementations of spatial statistical models 
 
-1. Michael Schwob, PhD Statistics, UT-Austin   
-Research:  Dynamic models for dependent data 
-
 1. Rachael Ren, PhD Statistics, UT-Austin   
 Research:  Multistage modeling of marine mammal distribution and space use
 
 Former
 ------
 
-1. Justin Van Ee, PhD, CSU (coadvised w/ Matt Koslovsky)   
-Current:  Statistician at the National Oceanic and Atmospheric Administration (NOAA) 
+1. Michael Schwob, PhD Statistics, UT-Austin   
+Current:  Asst. Professor at Virginia Tech
 
 1. Clint Leach, Postdoc, CSU   
 Current:  Asst. Unit Leader, Nebraska Cooperative Fish and Wildlife Research Unit; Asst. Professor, University of Nebraska

@@ -40,6 +40,8 @@ Papers
 2025
 ------
 
+1. Goel, N., C. Bossu, J.J. Van Ee, E. Zavaleta, K. Ruegg, and M.B. Hooten. (In Press). Identifying genomic adaptation to local climate using mechanistic evolutionary models. Methods in Ecology and Evolution.
+
 1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics. [discussion paper]
 
 1. Wright, W.J. and M.B. Hooten.  (In Press).  Rejoinder to the discussion on "Continuous-space occupancy models."  Biometrics.
