@@ -14,8 +14,8 @@ Research:  Lower-trophic estuary ecosystem dynamics
 1. Nikunj Goel, Postdoc, UT-Austin   
 Research:  Statistical models based on ecological and evolutionary theory 
 
-1. Justin Van Ee, Postdoc, UT-Austin
-Research:  Statistical models for spatial ecological processes networks
+1. Justin Van Ee, Postdoc, UT-Austin    
+Research:  Statistical models for spatial ecological processes 
 
 1. Myungsoo Yoo, Postdoc, UT-Austin    
 Research:  Statistical models for animal movement
