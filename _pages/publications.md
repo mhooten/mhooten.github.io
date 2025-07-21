@@ -50,8 +50,6 @@ Papers
 
 1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
 
-1. Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (In Press). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics.
-
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
 
 1. Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (2025).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics, 67: 100902.
@@ -62,6 +60,8 @@ Papers
 
 2024
 ------
+
+1. Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (2024). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics, 30: 769-799.
 
 1. Schwob, M.R., M.B. Hooten, and V. Narasimhan.  (2024).  Composite dyadic models for spatio-temporal data.  Biometrics, 80: ujae107.
 
