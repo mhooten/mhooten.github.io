@@ -8,7 +8,7 @@ author_profile: true
 Books
 ------
 
-* Hobbs, N.T. and M.B. Hooten. (2025). Bayesian Models: A Statistical Primer for Ecologists, Second Edition. Princeton University Press. 
+* Hobbs, N.T. and M.B. Hooten. (2025). Bayesian Models: A Statistical Primer for Ecologists, Second Edition. Princeton University Press. [(errata)](Hobbs_Hooten_Bayesian_Models_2025_errata.pdf) 
 <p align="center">
   <a href="https://www.amazon.com/Bayesian-Models-Statistical-Primer-Ecologists-dp-069125012X/dp/069125012X/" title="">
     <img src="Hobbs_Hooten_BayesModels_2ndEd_2025.jpg" alt="" width="100" />
