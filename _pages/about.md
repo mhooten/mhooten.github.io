@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper accepted in Annals of Applied Statistics:
+
+Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (In Press).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics.
+
 * New paper accepted in Methods in Ecology and Evolution:
 
 Goel, N., C. Bossu, J.J. Van Ee, E. Zavaleta, K. Ruegg, and M.B. Hooten. (In Press). Identifying genomic adaptation to local climate using mechanistic evolutionary models. Methods in Ecology and Evolution.
