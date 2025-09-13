@@ -8,12 +8,6 @@ author_profile: true
 Postdocs
 ------
 
-1. Alex Barth, Postdoc, UT-Austin (co-advised w/ Jordan Casey)    
-Research:  Lower-trophic estuary ecosystem dynamics   
-
-1. Nikunj Goel, Postdoc, UT-Austin   
-Research:  Statistical models based on ecological and evolutionary theory 
-
 1. Justin Van Ee, Postdoc, UT-Austin    
 Research:  Statistical models for spatial ecological processes 
 
@@ -34,6 +28,12 @@ Former
 
 1. Michael Schwob, PhD Statistics, UT-Austin   
 Current:  Asst. Professor at Virginia Tech
+
+1. Alex Barth, Postdoc, UT-Austin (co-advised w/ Jordan Casey)    
+Current:  Researcher, Texas Water Development Board   
+
+1. Nikunj Goel, Postdoc, UT-Austin   
+Current:  Postdoc at Emory University 
 
 1. Clint Leach, Postdoc, CSU   
 Current:  Asst. Unit Leader, Nebraska Cooperative Fish and Wildlife Research Unit; Asst. Professor, University of Nebraska
