@@ -40,6 +40,9 @@ Papers
 2025
 ------
 
+1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff
+Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
+
 1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (In Press).  Clipped multiscale spatial processes for
 multivariate binary data.  Annals of Applied Statistics.
 
