@@ -110,7 +110,7 @@ multivariate binary data.  Annals of Applied Statistics.
 
 1. Williams, P.J., X. Lu, H.R. Scharf, and M.B. Hooten. (2023). Embracing asymmetry in nature: How to account for skewness in ecological data. Ecological Informatics, 75: 102085.  [(pdf)](Williams_etal_EcoInfo_2023.pdf)
 
-1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hierarchical capture-recapture models.  Environmetrics, 34: e2799. [(code)](Environmetrics_Code_Post.zip) [(video)](https://youtu.be/qYmWNv6BlkQ)
+1. Hooten, M.B., M.R. Schwob, D.S. Johnson, and J.S. Ivan.  (2023).  Multistage hierarchical capture-recapture models.  Environmetrics, 34: e2799. [(code)](Environmetrics_Code_Post.zip) [(video 1)](https://youtu.be/qYmWNv6BlkQ) [(video 2)](https://youtu.be/sBge5R55RhM)
 
 1. Eisaguirre, J.M., P.J. Williams, X. Lu, M.L. Kissling, P.A. Schuette, B.P. Weitzman, W.S. Beatty, G.G. Esslinger, J.N. Womble, and M.B. Hooten. (2023). Informing management of recovering predators and their prey with ecological diffusion models. Frontiers in Ecology and the Environment, 21: 479-488. (cover article)
 
@@ -210,7 +210,7 @@ multivariate binary data.  Annals of Applied Statistics.
 
 1. Hooten, M.B. and D.S. Johnson. (2019). Modeling Animal Movement. Gelfand, A.E., M. Fuentes, and J.A. Hoeting (eds). In Handbook of Environmental and Ecological Statistics. Chapman & Hall/CRC.
 
-1. Hooten, M.B., H.R. Scharf, and J.M. Morales. (2019). Running on empty: Recharge dynamics from animal movement data. Ecology Letters, 22: 377-389. [(pdf)](Hooten_etal_EcolLetters_2019.pdf) [(video)](https://youtu.be/IP4ka9TdtHM)
+1. Hooten, M.B., H.R. Scharf, and J.M. Morales. (2019). Running on empty: Recharge dynamics from animal movement data. Ecology Letters, 22: 377-389. [(pdf)](Hooten_etal_EcolLetters_2019.pdf) [(video 1)](https://youtu.be/IP4ka9TdtHM) [(video 2)](https://youtu.be/NqSjC7j6Egs)
 
 2018
 ------
