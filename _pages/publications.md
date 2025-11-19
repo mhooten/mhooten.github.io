@@ -40,6 +40,8 @@ Papers
 2025
 ------
 
+1. Goljani, R., T. Brown, K. Leitner, G. Hong, K. Ruegg, M.B. Hooten, and E. Zavaleta. (In Press).  Hierarchical habitat selection for reconstructing past and present niches and distributions of data-limited species under climate change.  Diversity and Distributions.
+
 1. Gamba, D., M.L. Vahsen, T.M. Maxwell, N. Pirtel, S. Romero, J.J. Van Ee, A. Penn, A. Das, R. Ben-Zeev, O. Baughman, C.S. Blaney, R. Bodkins, S. Budha-Magar, S.M. Copeland, S.L. Davis-Foust, A. Diamond, R.C. Donnelly, P.W. Dunwiddie, D.J. Ensing, T.A. Everest, H. Hoitink, M.C. Holdrege, R.A. Hufbauer, S. Juzenas, J.M. Kalwij, E. Kashirina, S. Kim, M. Klisz, A. Klyueva, M. Langeveld, S. Lutfy, D. Martin, C.L. Merkord, J.W. Morgan, D.U. Nagy, J.P. Ott, R. Puchalka, L.A.  Pyle, L. Rasran, B.G. Rector, C. Rosche, M. Sadykova, R.K. Shriver, A. Stanislavschi, B.M. Starzomski, R.L. Stone, K.G. Turner, A.K. Urza, A. VanWallendael, C.-A. Wegenschimmel, J. Zweck, C.S. Brown, E.A. Leger, D.M. Blumenthal, M.J. Germino, L.M. Porensky, M.B. Hooten, P.B. Adler, J.R. Lasky. (In Press). Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications.
 
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff
