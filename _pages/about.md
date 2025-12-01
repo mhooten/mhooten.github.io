@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+* New paper published in Diversity and Distributions:
+
+Goljani, R., T. Brown, K. Leitner, G. Hong, K. Ruegg, M.B. Hooten, and E. Zavaleta. (2025).  Hierarchical habitat selection for reconstructing past and present niches and distributions of data-limited species under climate change.  Diversity and Distributions, 31: e70128.
+
 * New paper accepted in Nature Communications:
 
 Gamba, D., M.L. Vahsen, T.M. Maxwell,..., M.B. Hooten, P.B. Adler, J.R. Lasky.  (In Press).  Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications.
@@ -19,16 +23,11 @@ Bayesian variable selection in genome-wide association studies.  Bayesian Analys
 
 * New paper accepted in Annals of Applied Statistics:
 
-Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (In Press).  Clipped multiscale spatial processes for
-multivariate binary data.  Annals of Applied Statistics.
+Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (In Press).  Clipped multiscale spatial processes for multivariate binary data.  Annals of Applied Statistics.
 
 * New paper accepted in Annals of Applied Statistics:
 
 Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (In Press).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics.
-
-* New paper published in Spatial Statistics:
-
-Lu, X., A. Kaplan, Y. Kanno, G. Valentine, J. Rash, and M.B. Hooten.  (2025).  Stochastic spatial stream networks for scalable inferences of riverscape processes.  Spatial Statistics, 67:  100902.
 
 * New paper accepted in Biometrics:
 
