@@ -45,11 +45,6 @@ Papers
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff
 Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 
-1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (In Press).  Clipped multiscale spatial processes for
-multivariate binary data.  Annals of Applied Statistics.
-
-1. Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (In Press).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics.
-
 1. Goel, N., C. Bossu, J.J. Van Ee, E. Zavaleta, K. Ruegg, and M.B. Hooten. (In Press). Identifying genomic adaptation to local climate using mechanistic evolutionary models. Methods in Ecology and Evolution.
 
 1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics. [discussion paper]
@@ -61,6 +56,11 @@ multivariate binary data.  Annals of Applied Statistics.
 1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
 
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
+
+1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for
+multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936. 
+
+1. Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (2025).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics, 19: 2644-2663.
 
 1. Goljani, R., T. Brown, K. Leitner, G. Hong, K. Ruegg, M.B. Hooten, and E. Zavaleta. (2025).  Hierarchical habitat selection for reconstructing past and present niches and distributions of data-limited species under climate change.  Diversity and Distributions, 31: e70128.
 
