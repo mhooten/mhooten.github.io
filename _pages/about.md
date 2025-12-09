@@ -10,16 +10,17 @@ redirect_from:
 
 * New paper published in AoAS:
 
-1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for
+Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for
 multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936. 
-
-* New paper published in AoAS:
-
-1. Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (2025).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics, 19: 2644-2663.
 
 * New paper published in Diversity and Distributions:
 
 Goljani, R., T. Brown, K. Leitner, G. Hong, K. Ruegg, M.B. Hooten, and E. Zavaleta. (2025).  Hierarchical habitat selection for reconstructing past and present niches and distributions of data-limited species under climate change.  Diversity and Distributions, 31: e70128.
+
+
+* New paper published in AoAS:
+
+Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (2025).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics, 19: 2644-2663.
 
 * New paper accepted in Nature Communications:
 
