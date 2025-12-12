@@ -42,22 +42,21 @@ Papers
 
 1. Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician.
 
-1. Gamba, D., M.L. Vahsen, T.M. Maxwell, N. Pirtel, S. Romero, J.J. Van Ee, A. Penn, A. Das, R. Ben-Zeev, O. Baughman, C.S. Blaney, R. Bodkins, S. Budha-Magar, S.M. Copeland, S.L. Davis-Foust, A. Diamond, R.C. Donnelly, P.W. Dunwiddie, D.J. Ensing, T.A. Everest, H. Hoitink, M.C. Holdrege, R.A. Hufbauer, S. Juzenas, J.M. Kalwij, E. Kashirina, S. Kim, M. Klisz, A. Klyueva, M. Langeveld, S. Lutfy, D. Martin, C.L. Merkord, J.W. Morgan, D.U. Nagy, J.P. Ott, R. Puchalka, L.A.  Pyle, L. Rasran, B.G. Rector, C. Rosche, M. Sadykova, R.K. Shriver, A. Stanislavschi, B.M. Starzomski, R.L. Stone, K.G. Turner, A.K. Urza, A. VanWallendael, C.-A. Wegenschimmel, J. Zweck, C.S. Brown, E.A. Leger, D.M. Blumenthal, M.J. Germino, L.M. Porensky, M.B. Hooten, P.B. Adler, J.R. Lasky. (In Press). Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications.
-
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff
 Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 
-1. Goel, N., C. Bossu, J.J. Van Ee, E. Zavaleta, K. Ruegg, and M.B. Hooten. (In Press). Identifying genomic adaptation to local climate using mechanistic evolutionary models. Methods in Ecology and Evolution.
-
-1. Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics. [discussion paper]
-
-1. Wright, W.J. and M.B. Hooten.  (In Press).  Rejoinder to the discussion on "Continuous-space occupancy models."  Biometrics.
-
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
 
-1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (In Press). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications.
+1. Goel, N., C. Bossu, J.J. Van Ee, E. Zavaleta, K. Ruegg, and M.B. Hooten. (In Press). Identifying genomic adaptation to local climate using mechanistic evolutionary models. Methods in Ecology and Evolution, 16: 2448-2460.
 
-1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (In Press). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics.
+1. Gamba, D., M.L. Vahsen, T.M. Maxwell, N. Pirtel, S. Romero, J.J. Van Ee, A. Penn, A. Das, R. Ben-Zeev, O. Baughman, C.S. Blaney, R. Bodkins, S. Budha-Magar, S.M. Copeland, S.L. Davis-Foust, A. Diamond, R.C. Donnelly, P.W. Dunwiddie, D.J. Ensing, T.A. Everest, H. Hoitink, M.C. Holdrege, R.A. Hufbauer, S. Juzenas, J.M. Kalwij, E. Kashirina, S. Kim, M. Klisz, A. Klyueva, M. Langeveld, S. Lutfy, D. Martin, C.L. Merkord, J.W. Morgan, D.U. Nagy, J.P. Ott, R. Puchalka, L.A.  Pyle, L. Rasran, B.G. Rector, C. Rosche, M. Sadykova, R.K. Shriver, A. Stanislavschi, B.M. Starzomski, R.L. Stone, K.G. Turner, A.K. Urza, A. VanWallendael, C.-A. Wegenschimmel, J. Zweck, C.S. Brown, E.A. Leger, D.M. Blumenthal, M.J. Germino, L.M. Porensky, M.B. Hooten, P.B. Adler, J.R. Lasky. (In Press). Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications, 16: 10203.
+
+1. Wright, W.J. and M.B. Hooten.  (2025).  Continuous-space occupancy models.  Biometrics, 81:
+ujaf055. [discussion paper]
+
+1. Wright, W.J. and M.B. Hooten.  (2025).  Rejoinder to the discussion on "Continuous-space occupancy models."  Biometrics, 81: ejaf058.
+
+1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (2025). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics, 30: 683-699.
 
 1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for
 multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936. 
@@ -74,6 +73,8 @@ multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936.
 
 2024
 ------
+
+1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (2024). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications, 40: 1242-1255.
 
 1. Van Ee, J.J., C.A. Hagen, D.C. Pavlacky Jr., D.A. Haukos, A.J. Lawrence, A.M. Tanner, B.A. Grisham, K.A. Fricke, L.G. Rossi, G.G. Beauprez, K.E. Kuklinski, R. Martin, M.D. Koslovsky, T.B. Rintz, and M.B. Hooten. (2024). Melded integrated population models. Journal of Agricultural, Biological, and Environmental Statistics, 30: 769-799.
 
