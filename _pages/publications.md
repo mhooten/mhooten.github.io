@@ -49,17 +49,15 @@ Bayesian variable selection in genome-wide association studies.  Bayesian Analys
 
 1. Goel, N., C. Bossu, J.J. Van Ee, E. Zavaleta, K. Ruegg, and M.B. Hooten. (2025). Identifying genomic adaptation to local climate using mechanistic evolutionary models. Methods in Ecology and Evolution, 16: 2448-2460.
 
-1. Gamba, D., M.L. Vahsen, T.M. Maxwell, N. Pirtel, S. Romero, J.J. Van Ee, A. Penn, A. Das, R. Ben-Zeev, O. Baughman, C.S. Blaney, R. Bodkins, S. Budha-Magar, S.M. Copeland, S.L. Davis-Foust, A. Diamond, R.C. Donnelly, P.W. Dunwiddie, D.J. Ensing, T.A. Everest, H. Hoitink, M.C. Holdrege, R.A. Hufbauer, S. Juzenas, J.M. Kalwij, E. Kashirina, S. Kim, M. Klisz, A. Klyueva, M. Langeveld, S. Lutfy, D. Martin, C.L. Merkord, J.W. Morgan, D.U. Nagy, J.P. Ott, R. Puchalka, L.A.  Pyle, L. Rasran, B.G. Rector, C. Rosche, M. Sadykova, R.K. Shriver, A. Stanislavschi, B.M. Starzomski, R.L. Stone, K.G. Turner, A.K. Urza, A. VanWallendael, C.-A. Wegenschimmel, J. Zweck, C.S. Brown, E.A. Leger, D.M. Blumenthal, M.J. Germino, L.M. Porensky, M.B. Hooten, P.B. Adler, J.R. Lasky. (In Press). Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications, 16: 10203.
+1. Gamba, D., M.L. Vahsen, T.M. Maxwell, N. Pirtel, S. Romero, J.J. Van Ee, A. Penn, A. Das, R. Ben-Zeev, O. Baughman, C.S. Blaney, R. Bodkins, S. Budha-Magar, S.M. Copeland, S.L. Davis-Foust, A. Diamond, R.C. Donnelly, P.W. Dunwiddie, D.J. Ensing, T.A. Everest, H. Hoitink, M.C. Holdrege, R.A. Hufbauer, S. Juzenas, J.M. Kalwij, E. Kashirina, S. Kim, M. Klisz, A. Klyueva, M. Langeveld, S. Lutfy, D. Martin, C.L. Merkord, J.W. Morgan, D.U. Nagy, J.P. Ott, R. Puchalka, L.A.  Pyle, L. Rasran, B.G. Rector, C. Rosche, M. Sadykova, R.K. Shriver, A. Stanislavschi, B.M. Starzomski, R.L. Stone, K.G. Turner, A.K. Urza, A. VanWallendael, C.-A. Wegenschimmel, J. Zweck, C.S. Brown, E.A. Leger, D.M. Blumenthal, M.J. Germino, L.M. Porensky, M.B. Hooten, P.B. Adler, J.R. Lasky. (2025). Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications, 16: 10203.
 
-1. Wright, W.J. and M.B. Hooten.  (2025).  Continuous-space occupancy models.  Biometrics, 81:
-ujaf055. [discussion paper]
+1. Wright, W.J. and M.B. Hooten.  (2025).  Continuous-space occupancy models.  Biometrics, 81: ujaf055. [discussion paper]
 
 1. Wright, W.J. and M.B. Hooten.  (2025).  Rejoinder to the discussion on "Continuous-space occupancy models."  Biometrics, 81: ejaf058.
 
 1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (2025). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics, 30: 683-699.
 
-1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for
-multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936. 
+1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936. 
 
 1. Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (2025).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics, 19: 2644-2663.
 
