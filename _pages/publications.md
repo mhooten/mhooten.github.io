@@ -55,7 +55,7 @@ Bayesian variable selection in genome-wide association studies.  Bayesian Analys
 
 1. Wright, W.J. and M.B. Hooten.  (2025).  Rejoinder to the discussion on "Continuous-space occupancy models."  Biometrics, 81: ejaf058.
 
-1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (2025). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics, 30: 683-699.
+1. Lu, X., Y. Kanno, G. Valentine, M. Kulp, and M.B. Hooten. (2025). Regularized latent trajectory models for spatio-temporal population dynamics. Journal of Agricultural, Biological and Environmental Statistics, 30: 683 - 699.
 
 1. Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936. 
 
