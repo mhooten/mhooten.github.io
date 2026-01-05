@@ -37,15 +37,17 @@ Books
 Papers
 ------
 
-2025
+2026
 ------
 
 1. Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician.
 
-1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff
-Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
+1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
+
+2025
+------
 
 1. Goel, N., C. Bossu, J.J. Van Ee, E. Zavaleta, K. Ruegg, and M.B. Hooten. (2025). Identifying genomic adaptation to local climate using mechanistic evolutionary models. Methods in Ecology and Evolution, 16: 2448-2460.
 
