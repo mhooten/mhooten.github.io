@@ -40,6 +40,8 @@ Papers
 2026
 ------
 
+1. Robertson, E.C.N., T. Brown, S. Deitch, C.M. Bossu, E. Zavaleta, M.B. Hooten, and K. Ruegg. (In Press). The genetic and morphological basis of local adaptation to elevational extremes in an alpine finch. Ecology and Evolution.
+
 1. Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician.
 
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
