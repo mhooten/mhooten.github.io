@@ -10,7 +10,12 @@ redirect_from:
 
 Research Summary Podcast:
 
-<iframe width="112" height="63" src="https://www.youtube.com/embed/Ovf9hj_TC2A?si=p0ckpXX5MrhoRSXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe
+  style="width:112px; height:63px; max-width:none;"
+  src="https://www.youtube.com/embed/Ovf9hj_TC2A"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 
 * New paper accepted in The American Statistician:
