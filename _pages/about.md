@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Summary (podcast):"
+title: "Recent News"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+**Research Summary (podcast):**
+
 <div style="width:224px; margin: 0 auto; line-height:0;">
   <iframe
     src="https://www.youtube.com/embed/Ovf9hj_TC2A"
-    style="width:112px; height:126px; max-width:none; display:block;"
+    style="width:224px; height:126px; max-width:none; display:block;"
     frameborder="0"
     allowfullscreen>
   </iframe>
