@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+Research Summary Podcast:
+
+<iframe width="112" height="63" src="https://www.youtube.com/embed/Ovf9hj_TC2A?si=p0ckpXX5MrhoRSXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 * New paper accepted in The American Statistician:
 
 Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician.
-
-* New paper published in AoAS:
-
-Wright, W.J., P.N. Neitlich, and M.B. Hooten.  (2025).  Clipped multiscale spatial processes for
-multivariate binary data.  Annals of Applied Statistics, 19: 2918-2936. 
 
 * New paper published in AoAS:
 
@@ -27,8 +27,7 @@ Gamba, D., M.L. Vahsen, T.M. Maxwell,..., M.B. Hooten, P.B. Adler, J.R. Lasky.  
 
 * New paper accepted in Bayesian Analysis:
 
-Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff
-Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
+Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 
 * New paper accepted in Biometrics:
 
