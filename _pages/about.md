@@ -11,7 +11,7 @@ redirect_from:
 Research Summary Podcast:
 
 <iframe
-  style="width:112px; height:63px; max-width:none;"
+  style="width:224px; height:126px; max-width:none;"
   src="https://www.youtube.com/embed/Ovf9hj_TC2A"
   frameborder="0"
   allowfullscreen>
