@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Research Summary Podcast:
+**Research Summary Podcast:**
 
-<iframe
-  style="width:224px; height:126px; max-width:none;"
-  src="https://www.youtube.com/embed/Ovf9hj_TC2A"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+<div style="width:112px; margin: 0 auto; line-height:0;">
+  <iframe
+    src="https://www.youtube.com/embed/Ovf9hj_TC2A"
+    style="width:112px; height:63px; max-width:none; display:block;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
+**Recent Publications:**
 
 * New paper accepted in The American Statistician:
 
