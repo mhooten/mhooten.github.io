@@ -19,6 +19,7 @@ redirect_from:
   </iframe>
 </div>
 
+
 **Recent Publications:**
 
 * New paper accepted in The American Statistician:
