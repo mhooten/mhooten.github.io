@@ -93,7 +93,8 @@ author:
   location         : 
   employer         : 
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=CZ1A-8cAAAAJ&hl=en"
+#  googlescholar    : "https://scholar.google.com/citations?user=CZ1A-8cAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=ovnrv8MAAAAJ&hl=en"
   email            : "mevin.hooten@austin.utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
