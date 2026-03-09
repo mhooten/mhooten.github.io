@@ -48,7 +48,7 @@ Current:  Researcher at USDA Forest Service
 Current:  Asst. Professor at Utah State University 
 
 1. Ann Raiho, Postdoc, CSU   
-Current:  Lead Data Scientist at Funga 
+Current:  Scientist at Temple University 
 
 1. Henry Scharf, PhD, Postdoc, CSU   
 Current:  Asst. Professor at The University of Arizona 
@@ -56,8 +56,8 @@ Current:  Asst. Professor at The University of Arizona
 1. David Clancy, MS, CSU   
 Current:  Senior Data Scientist at CarMax 
 
-1. Perry Williams, MS, Postdoc, CSU   
-Current:  Asst. Professor at University of Nevada, Reno
+1. Perry Williams, MS, Postdoc, CSU  
+Current:  Assoc. Professor at University of Nevada, Reno
 
 1. Frances Buderman, PhD, CSU   
 Current:  Asst. Professor at Penn State University
@@ -78,16 +78,16 @@ Current:  Research Scientist at Los Alamos National Laboratory
 Current:  Asst. Unit Leader at Colorado Cooperative Fish and Wildlife Research Unit 
 
 1. Kristin Broms, Postdoc, CSU    
-Current:  Associate Director and Senior Statistical Ecologist at Provivi, Inc.
+Current:  Senior Research Scientist at Humana
 
 1. Trevor Hefley, Postdoc, CSU   
-Current:  Assoc. Professor at Kansas State University 
+Current:  Professor at Kansas State University 
 
 1. Viviana Ruiz-Gutierrez, Postdoc, CSU   
 Current:  Quantitative Ecologist at Cornell University 
 
 1. Ephraim Hanks, MS, PhD, USU, CSU   
-Current:  Assoc. Professor at Penn State University 
+Current:  Professor at Penn State University 
 
 1. Beth Ross, MS, PhD, USU   
 Current:  Quantitative Ecologist at US Fish and Wildlife Service 
@@ -99,7 +99,7 @@ Current:  Professor at South Dakota School of Mines and Technology
 Current:  Research Ecologist at US Geological Survey 
 
 1. Glenda Yenni, MS, USU   
-Current:  Senior Research Manager at Univ. of Florida 
+Current:  Scientific Research Manager at Univ. of Florida 
 
 1. Xiao Xiao, MS, USU   
 Current:  Data Scientist at Instacart
