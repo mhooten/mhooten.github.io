@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper accepted in Spatial Statistics:
+
+Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (In Press). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics.
+
 * New paper accepted in The American Statistician:
 
 Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician.
@@ -37,9 +41,4 @@ Gamba, D., M.L. Vahsen, T.M. Maxwell,..., M.B. Hooten, P.B. Adler, J.R. Lasky.  
 * New paper accepted in Bayesian Analysis:
 
 Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
-
-* New paper accepted in Biometrics:
-
-Wright, W.J. and M.B. Hooten.  (In Press).  Continuous-space occupancy models.  Biometrics. [discussion paper]
-
 

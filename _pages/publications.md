@@ -40,6 +40,8 @@ Papers
 2026
 ------
 
+1. Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (In Press). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics.
+
 1. Van Ee, J.J., M.L. Vahsen, D. Gamba, T. Maxwell, B.E. Davidson, B.E. Lazarus, L. Porensky, R. Hufbauer, M.J. Germino, P.B. Adler, J.R. Lasky, and M.B. Hooten.  (In Press).  Data reconciliation in multi-trait experiments with kinship ordination.  Methods in Ecology and Evolution.
 
 1. Arab, A., M.B. Hooten, and C.K. Wikle (In Press). Hierarchical spatial models. In: Encyclopedia of  Geographical Information Science, Third Edition. Springer.   
