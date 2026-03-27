@@ -22,9 +22,9 @@ redirect_from:
 
 **Recent Publications:**
 
-* New paper accepted in Spatial Statistics:
+* New paper published in Spatial Statistics:
 
-Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (In Press). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics.
+Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (2026). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics, 73: 100975.
 
 * New paper accepted in The American Statistician:
 

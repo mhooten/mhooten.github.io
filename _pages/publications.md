@@ -40,8 +40,6 @@ Papers
 2026
 ------
 
-1. Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (In Press). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics.
-
 1. Van Ee, J.J., M.L. Vahsen, D. Gamba, T. Maxwell, B.E. Davidson, B.E. Lazarus, L. Porensky, R. Hufbauer, M.J. Germino, P.B. Adler, J.R. Lasky, and M.B. Hooten.  (In Press).  Data reconciliation in multi-trait experiments with kinship ordination.  Methods in Ecology and Evolution.
 
 1. Arab, A., M.B. Hooten, and C.K. Wikle (In Press). Hierarchical spatial models. In: Encyclopedia of  Geographical Information Science, Third Edition. Springer.   
@@ -51,6 +49,8 @@ Papers
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
+
+1. Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (2026). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics, 73: 100975. [(pdf)](Ren_etal_SpatStat_2026.pdf)
 
 1. Robertson, E.C.N., T. Brown, S. Deitch, C.M. Bossu, E. Zavaleta, M.B. Hooten, and K. Ruegg. (2026). The genetic and morphological basis of local adaptation to elevational extremes in an alpine finch. Ecology and Evolution, 16: e72962.  [(pdf)](Robertson_etal_EE_2026.pdf)
 
