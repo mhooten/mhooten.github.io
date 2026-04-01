@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper published in Bayesian Analysis:
+
+Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (2026).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis, 21: 453-483.
+
 * New paper published in Spatial Statistics:
 
 Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (2026). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics, 73: 100975.
@@ -37,8 +41,4 @@ Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (2025).  Spatial hypersp
 * New paper accepted in Nature Communications:
 
 Gamba, D., M.L. Vahsen, T.M. Maxwell,..., M.B. Hooten, P.B. Adler, J.R. Lasky.  (In Press).  Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications.
-
-* New paper accepted in Bayesian Analysis:
-
-Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 

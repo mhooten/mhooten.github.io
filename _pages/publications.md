@@ -48,7 +48,7 @@ Papers
 
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 
-1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (In Press).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis.
+1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (2026).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis, 21: 453-483.  [(pdf)](Koslovsky_etal_BA_2026.pdf)
 
 1. Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (2026). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics, 73: 100975. [(pdf)](Ren_etal_SpatStat_2026.pdf)
 
@@ -91,8 +91,6 @@ Papers
 1. McDevitt-Gales, T., A.T. Degaetano, S. Elmendorf, J.R. Foster, H.S Ginsberg, M.B. Hooten, S. LaDeau, K.M. McClure, S. Paull, E. Posthumus, I. Rochlin, and D. Grear. (2024). Partly Cloudy with a Chance of Mosquitoes: Developing a macroecological approach to forecasting mosquito populations and phenology under changing climates. Ecosphere, 15: e70074.
 
 1. Valle, D., N. Attias, J.A. Cullen, M.B. Hooten, A. Giroux, L. Gustavo, R. Oliveira-Santos, A.L.J. Desbiez, and R.J. Fletcher.  (2024).  Bridging the gap between movement data and connectivity analysis using the Time-Explicit Habitat Selection (TEHS) model.  Movement Ecology, 12: 19.
-
-1. Valentine, G.P., X. Lu, C.A. Dolloff, C.N. Roghair, J.M. Rash, M.B. Hooten, and Y. Kanno. (2025). Landscape influences on thermal sensitivity and predicted spatial variability among brook trout streams in the Southeastern USA. River Research and Applications, 40: 1242-1255.
 
 1. Wikle, C.K., M.B. Hooten, W. Kleiber, and D.W. Nychka.  (2024).  Spatial statistics:  Climate and the environment.  Spatial Statistics, 63: 100856.
 
