@@ -40,6 +40,8 @@ Papers
 2026
 ------
 
+1. Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
+
 1. Van Ee, J.J., M.L. Vahsen, D. Gamba, T. Maxwell, B.E. Davidson, B.E. Lazarus, L. Porensky, R. Hufbauer, M.J. Germino, P.B. Adler, J.R. Lasky, and M.B. Hooten.  (In Press).  Data reconciliation in multi-trait experiments with kinship ordination.  Methods in Ecology and Evolution.
 
 1. Arab, A., M.B. Hooten, and C.K. Wikle (In Press). Hierarchical spatial models. In: Encyclopedia of  Geographical Information Science, Third Edition. Springer.   

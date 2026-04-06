@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper accepted in Landscape Ecology:
+
+Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
+
 * New paper published in Bayesian Analysis:
 
 Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (2026).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis, 21: 453-483.
@@ -37,8 +41,4 @@ Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Acco
 * New paper published in AoAS:
 
 Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (2025).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics, 19: 2644-2663.
-
-* New paper accepted in Nature Communications:
-
-Gamba, D., M.L. Vahsen, T.M. Maxwell,..., M.B. Hooten, P.B. Adler, J.R. Lasky.  (In Press).  Local adaptation to climate has facilitated the global invasion of cheatgrass.  Nature Communications.
 
