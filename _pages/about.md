@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper accepted in MEE:
+
+Van Ee, J.J., Y. Kanno, X. Lu, J.M. Rash, and M.B. Hooten. (In Press). Geometric overdispersion facilitates the integration of ecological data. Methods in Ecology and Evolution.
+
 * New paper accepted in Landscape Ecology:
 
 Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
