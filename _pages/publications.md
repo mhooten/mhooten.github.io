@@ -40,6 +40,8 @@ Papers
 2026
 ------
 
+1. Vahsen, M.L., J.J. Van Ee, D. Gamba, T.M. Maxwell, N. Pirtel, S.J. Romero, D.R. Barnett, O. Baughman, D.J. Ensing, R. Gill, M.C. Holdrege, R.A. Hufbauer, R. Hufft, C.E. Moffat, J. Ott, L. Pyle, C. Schroeder, E.W. Schupp, R.K. Shriver, M. Stemkovski, A.J. Symstad, A.K.Urza, D.M. Blumenthal, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A. Leger, L.M. Porensky, and P.B. Adler.  (In Press).  Eco-evolutionary context modifies a destructive plant invader's response to climate.  New Phytologist.
+
 1. Van Ee, J.J., Y. Kanno, X. Lu, J.M. Rash, and M.B. Hooten. (In Press). Geometric overdispersion facilitates the integration of ecological data. Methods in Ecology and Evolution.
 
 1. Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
