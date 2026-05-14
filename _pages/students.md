@@ -60,7 +60,7 @@ Current:  Senior Data Scientist at CarMax
 Current:  Assoc. Professor at University of Nevada, Reno
 
 1. Frances Buderman, PhD, CSU   
-Current:  Asst. Professor at Penn State University
+Current:  Assoc. Professor at Penn State University
 
 1. Brian Brost, PhD, CSU   
 Current:  Statistician at National Oceanic and Atmospheric Administration 
