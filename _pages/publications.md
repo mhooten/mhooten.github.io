@@ -46,8 +46,6 @@ Papers
 
 1. Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
 
-1. Van Ee, J.J., M.L. Vahsen, D. Gamba, T. Maxwell, B.E. Davidson, B.E. Lazarus, L. Porensky, R. Hufbauer, M.J. Germino, P.B. Adler, J.R. Lasky, and M.B. Hooten.  (In Press).  Data reconciliation in multi-trait experiments with kinship ordination.  Methods in Ecology and Evolution.
-
 1. Arab, A., M.B. Hooten, and C.K. Wikle (In Press). Hierarchical spatial models. In: Encyclopedia of  Geographical Information Science, Third Edition. Springer.   
 
 1. Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician.
@@ -55,6 +53,8 @@ Papers
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
 
 1. Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (2026).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis, 21: 453-483.  [(pdf)](Koslovsky_etal_BA_2026.pdf)
+
+1. Van Ee, J.J., M.L. Vahsen, D. Gamba, T. Maxwell, B.E. Davidson, B.E. Lazarus, L. Porensky, R.  Hufbauer, M.J. Germino, P.B. Adler, J.R. Lasky, and M.B. Hooten. (2026). Data reconciliation in multi-trait experiments with kinship ordination. Methods in Ecology and Evolution, 17: 1799-1817.
 
 1. Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (2026). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics, 73: 100975. [(pdf)](Ren_etal_SpatStat_2026.pdf)
 
