@@ -22,9 +22,9 @@ redirect_from:
 
 **Recent Publications:**
 
-* New paper accepted in MEE:
+* New paper published in MEE:
 
-Van Ee, J.J., Y. Kanno, X. Lu, J.M. Rash, and M.B. Hooten. (In Press). Geometric overdispersion facilitates the integration of ecological data. Methods in Ecology and Evolution.
+Van Ee, J.J., Y. Kanno, X. Lu, J.M. Rash, and M.B. Hooten. (2026). Geometric overdispersion facilitates the integration of ecological data. Methods in Ecology and Evolution, 17: 2104-2122.
 
 * New paper accepted in Landscape Ecology:
 
