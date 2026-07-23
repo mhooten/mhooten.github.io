@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper published in The American Statistician:
+
+Glazer, A.K., L. Parast, and Hooten, M.B. (2026). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician, 80: 443-452.
+
 * New paper published in MEE:
 
 Van Ee, J.J., Y. Kanno, X. Lu, J.M. Rash, and M.B. Hooten. (2026). Geometric overdispersion facilitates the integration of ecological data. Methods in Ecology and Evolution, 17: 2104-2122.
@@ -38,11 +42,4 @@ Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (2026).  A unified
 
 Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (2026). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics, 73: 100975.
 
-* New paper accepted in The American Statistician:
-
-Glazer, A.K., L. Parast, and Hooten, M.B. (In Press). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician.
-
-* New paper published in AoAS:
-
-Schwob, M.R., M.B. Hooten, N. Calzada, and T.H. Keitt.  (2025).  Spatial hyperspheric models for compositional data analysis.  Annals of Applied Statistics, 19: 2644-2663.
 
