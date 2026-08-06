@@ -40,13 +40,13 @@ Papers
 2026
 ------
 
-1. Vahsen, M.L., J.J. Van Ee, D. Gamba, T.M. Maxwell, N. Pirtel, S.J. Romero, D.R. Barnett, O. Baughman, D.J. Ensing, R. Gill, M.C. Holdrege, R.A. Hufbauer, R. Hufft, C.E. Moffat, J. Ott, L. Pyle, C. Schroeder, E.W. Schupp, R.K. Shriver, M. Stemkovski, A.J. Symstad, A.K.Urza, D.M. Blumenthal, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A. Leger, L.M. Porensky, and P.B. Adler.  (In Press).  Eco-evolutionary context modifies a destructive plant invader's response to climate.  New Phytologist.
-
 1. Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
 
-1. Arab, A., M.B. Hooten, and C.K. Wikle (In Press). Hierarchical spatial models. In: Encyclopedia of  Geographical Information Science, Third Edition. Springer.   
-
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
+
+1. Vahsen, M.L., J.J. Van Ee, D. Gamba, T.M. Maxwell, N. Pirtel, S.J. Romero, D.R. Barnett, O. Baughman, D.J. Ensing, R. Gill, M.C. Holdrege, R.A. Hufbauer, R. Hufft, C.E. Moffat, J. Ott, L. Pyle, C. Schroeder, E.W. Schupp, R.K. Shriver, M. Stemkovski, A.J. Symstad, A.K.Urza, D.M. Blumenthal, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A. Leger, L.M. Porensky, and P.B. Adler.  (2026).  Eco-evolutionary context modifies a destructive plant invader's response to climate.  New Phytologist, 251: 2980-2994.
+
+1. Arab, A., M.B. Hooten, and C.K. Wikle (2026). Hierarchical spatial models. In: Encyclopedia of  Geographical Information Science, Third Edition. Springer.   
 
 1. Glazer, A.K., L. Parast, and Hooten, M.B. (2026). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician, 80: 443-452.
 
