@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper accepted in Bayesian Analysis:
+
+Barreto, D.W. and M.B. Hooten. (In Press). Recursive adaptive importance sampling with optimal replenishment. Bayesian Analysis. 
+
 * New paper published in New Phytologist:
 
 Vahsen, M.L., J.J. Van Ee, D. Gamba, T.M. Maxwell, N. Pirtel, S.J. Romero, D.R. Barnett, O. Baughman, D.J. Ensing, R. Gill, M.C. Holdrege, R.A. Hufbauer, R. Hufft, C.E. Moffat, J. Ott, L. Pyle, C. Schroeder, E.W. Schupp, R.K. Shriver, M. Stemkovski, A.J. Symstad, A.K. Urza, D.M. Blumenthal, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A. Leger, L.M. Porensky, and P.B. Adler.  (2026).  Eco-evolutionary context modifies a destructive plant invader's response to climate.  New Phytologist, 251: 2980-2994.
@@ -29,10 +33,6 @@ Vahsen, M.L., J.J. Van Ee, D. Gamba, T.M. Maxwell, N. Pirtel, S.J. Romero, D.R. 
 * New paper published in The American Statistician:
 
 Glazer, A.K., L. Parast, and Hooten, M.B. (2026). Beyond the yard line: Accommodating rounded sports data in statistical models. The American Statistician, 80: 443-452.
-
-* New paper published in MEE:
-
-Van Ee, J.J., Y. Kanno, X. Lu, J.M. Rash, and M.B. Hooten. (2026). Geometric overdispersion facilitates the integration of ecological data. Methods in Ecology and Evolution, 17: 2104-2122.
 
 * New paper published in Bayesian Analysis:
 
