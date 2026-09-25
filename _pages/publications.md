@@ -40,6 +40,8 @@ Papers
 2026
 ------
 
+1. Goel, N., S. Yi, C.M. Bossu, S. Yi, T.M. Brown, E.C. Robertson, R. Goljani Amirkhiz, P.E. Bolton, B.J. Vernasco, E. Zavaleta, K.C. Ruegg, and M.B. Hooten. (In Press). Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data. Molecular Biology and Evolution.
+
 1. Barreto, D.W. and M.B. Hooten. (In Press). Recursive adaptive importance sampling with optimal replenishment. Bayesian Analysis. 
 
 1. Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.

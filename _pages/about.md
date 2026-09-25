@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper accepted in MBE:
+
+Goel, N., S. Yi, C.M. Bossu, S. Yi, T.M. Brown, E.C. Robertson, R. Goljani Amirkhiz, P.E. Bolton, B.J. Vernasco, E. Zavaleta, K.C. Ruegg, and M.B. Hooten. (In Press). Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data. Molecular Biology and Evolution.
+
 * New paper accepted in Bayesian Analysis:
 
 Barreto, D.W. and M.B. Hooten. (In Press). Recursive adaptive importance sampling with optimal replenishment. Bayesian Analysis. 
@@ -37,9 +41,5 @@ Glazer, A.K., L. Parast, and Hooten, M.B. (2026). Beyond the yard line: Accommod
 * New paper published in Bayesian Analysis:
 
 Koslovsky, M.D., A. Kaplan, V.A. Terranova, and M.B. Hooten.  (2026).  A unified Bayesian framework for modeling measurement error in multinomial data.  Bayesian Analysis, 21: 453-483.
-
-* New paper published in Spatial Statistics:
-
-Ren, R., M.B. Hooten, T.L.J. Schafer, N.M. Calzada, B. Hoose, J.M. Womble, and S. Gende. (2026). A multistage Bayesian approach to fit spatial point process models. Spatial Statistics, 73: 100975.
 
 
