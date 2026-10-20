@@ -40,13 +40,13 @@ Papers
 2026
 ------
 
-1. Goel, N., S. Yi, C.M. Bossu, S. Yi, T.M. Brown, E.C. Robertson, R. Goljani Amirkhiz, P.E. Bolton, B.J. Vernasco, E. Zavaleta, K.C. Ruegg, and M.B. Hooten. (In Press). Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data. Molecular Biology and Evolution.
-
 1. Barreto, D.W. and M.B. Hooten. (In Press). Recursive adaptive importance sampling with optimal replenishment. Bayesian Analysis. 
 
 1. Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
 
 1. Van Ee, J.J., D. Gamba, J.R. Lasky, M.L. Vahsen, and M.B. Hooten. (In Press).  Spatial knockoff Bayesian variable selection in genome-wide association studies.  Bayesian Analysis.
+
+1. Goel, N., C.M. Bossu, S. Yi, T.M. Brown, E.C.N. Robertson, P.E. Bolton, B.J. Vernasco, R. Goljani Amirkhiz, E.S. Zavaleta, K.C. Ruegg, and M.B. Hooten. (2026). Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data. Molecular Biology and Evolution, 43: 1-16. [(pdf)](Goel_etal_MBE_2026.pdf)
 
 1. Vahsen, M.L., J.J. Van Ee, D. Gamba, T.M. Maxwell, N. Pirtel, S.J. Romero, D.R. Barnett, O. Baughman, D.J. Ensing, R. Gill, M.C. Holdrege, R.A. Hufbauer, R. Hufft, C.E. Moffat, J. Ott, L. Pyle, C. Schroeder, E.W. Schupp, R.K. Shriver, M. Stemkovski, A.J. Symstad, A.K. Urza, D.M. Blumenthal, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A. Leger, L.M. Porensky, and P.B. Adler.  (2026).  Eco-evolutionary context modifies a destructive plant invader's response to climate.  New Phytologist, 251: 2980-2994.
 

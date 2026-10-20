@@ -22,9 +22,9 @@ redirect_from:
 
 **Recent Publications:**
 
-* New paper accepted in MBE:
+* New paper published in MBE:
 
-Goel, N., S. Yi, C.M. Bossu, S. Yi, T.M. Brown, E.C. Robertson, R. Goljani Amirkhiz, P.E. Bolton, B.J. Vernasco, E. Zavaleta, K.C. Ruegg, and M.B. Hooten. (In Press). Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data. Molecular Biology and Evolution.
+Goel, N., C.M. Bossu, S. Yi, T.M. Brown, E.C.N. Robertson, P.E. Bolton, B.J. Vernasco, R. Goljani Amirkhiz, E.S. Zavaleta, K.C. Ruegg, and M.B. Hooten. (2026). Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data. Molecular Biology and Evolution, 43: 1-16.
 
 * New paper accepted in Bayesian Analysis:
 
