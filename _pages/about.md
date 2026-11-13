@@ -22,6 +22,10 @@ redirect_from:
 
 **Recent Publications:**
 
+* New paper accepted in JABES:
+
+Yoo, M., B. Ho, A. Feuka, C.B. Leach, L.L. Bailey, and M.B. Hooten. (In Press). Stochastic integro-differential models for animal trajectories. Journal of Agricultural, Biological, and Environmental Statistics.
+
 * New paper published in MBE:
 
 Goel, N., C.M. Bossu, S. Yi, T.M. Brown, E.C.N. Robertson, P.E. Bolton, B.J. Vernasco, R. Goljani Amirkhiz, E.S. Zavaleta, K.C. Ruegg, and M.B. Hooten. (2026). Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data. Molecular Biology and Evolution, 43: 1-16.
@@ -29,10 +33,6 @@ Goel, N., C.M. Bossu, S. Yi, T.M. Brown, E.C.N. Robertson, P.E. Bolton, B.J. Ver
 * New paper accepted in Bayesian Analysis:
 
 Barreto, D.W. and M.B. Hooten. (In Press). Recursive adaptive importance sampling with optimal replenishment. Bayesian Analysis. 
-
-* New paper published in New Phytologist:
-
-Vahsen, M.L., J.J. Van Ee, D. Gamba, T.M. Maxwell, N. Pirtel, S.J. Romero, D.R. Barnett, O. Baughman, D.J. Ensing, R. Gill, M.C. Holdrege, R.A. Hufbauer, R. Hufft, C.E. Moffat, J. Ott, L. Pyle, C. Schroeder, E.W. Schupp, R.K. Shriver, M. Stemkovski, A.J. Symstad, A.K. Urza, D.M. Blumenthal, M.J. Germino, M.B. Hooten, J.R. Lasky, E.A. Leger, L.M. Porensky, and P.B. Adler.  (2026).  Eco-evolutionary context modifies a destructive plant invader's response to climate.  New Phytologist, 251: 2980-2994.
 
 * New paper published in The American Statistician:
 

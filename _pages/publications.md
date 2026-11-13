@@ -40,6 +40,8 @@ Papers
 2026
 ------
 
+1. Yoo, M., B. Ho, A. Feuka, C.B. Leach, L.L. Bailey, and M.B. Hooten. (In Press). Stochastic integro-differential models for animal trajectories. Journal of Agricultural, Biological, and Environmental Statistics.
+
 1. Barreto, D.W. and M.B. Hooten. (In Press). Recursive adaptive importance sampling with optimal replenishment. Bayesian Analysis. 
 
 1. Eisaguirre, J.M., P.J. Williams, T.J. Hefley, and M.B. Hooten. (In Press). Ecological diffusion models are still useful in ecology. Landscape Ecology.
